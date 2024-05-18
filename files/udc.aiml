@@ -1,7 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<aiml>
-  <category>
-    <pattern>*</pattern>
-    <template>I have no answer for that.</template>
-  </category>
+<aiml version="2.0">
+    <category>
+        <pattern>HELLO</pattern>
+        <template>
+            Xin chào! Tôi là trợ lý của iStore. Tôi có thể giúp gì cho bạn hôm nay?
+        </template>
+    </category>
+    
+    <category>
+        <pattern>HI</pattern>
+        <template>
+            Chào bạn! Tôi là bot tự động của iStore, hãy cho tôi biết bạn cần gì.
+        </template>
+    </category>
+    
+    <!-- Câu hỏi về các dòng sản phẩm -->
+    <category>
+        <pattern>IPHONE</pattern>
+        <template>
+            Bạn muốn biết gì về iPhone? Hãy hỏi tôi về các mẫu iPhone, tính năng, giá cả hoặc bất cứ điều gì liên quan đến iPhone.
+        </template>
+    </category>
+
+    <category>
+        <pattern>GIỚI THIỆU IPHONE</pattern>
+        <template>
+            iPhone là dòng điện thoại thông minh của Apple, nổi bật với hệ điều hành iOS, thiết kế tinh tế và hiệu suất mạnh mẽ.
+        </template>
+    </category>
+
+    <category>
+        <pattern>IPAD</pattern>
+        <template>
+            Bạn muốn biết gì về iPad? Hãy hỏi tôi về các mẫu iPad, tính năng, giá cả hoặc bất cứ điều gì liên quan đến iPad.
+        </template>
+    </category>
+
+    <category>
+        <pattern>GIỚI THIỆU IPAD</pattern>
+        <template>
+            iPad là dòng máy tính bảng của Apple, nổi tiếng với màn hình Retina, hiệu suất mạnh mẽ và khả năng chạy nhiều ứng dụng cùng lúc.
+        </template>
+    </category>
+
+    <category>
+        <pattern>MACBOOK</pattern>
+        <template>
+            Bạn muốn biết gì về MacBook? Hãy hỏi tôi về các mẫu MacBook, tính năng, giá cả hoặc bất cứ điều gì liên quan đến MacBook.
+        </template>
+    </category>
+
+    <category>
+        <pattern>GIỚI THIỆU MACBOOK</pattern>
+        <template>
+            MacBook là dòng máy tính xách tay của Apple, được biết đến với thiết kế mỏng nhẹ, hiệu năng cao và hệ điều hành macOS.
+        </template>
+    </category>
+
+    <category>
+        <pattern>IPOD</pattern>
+        <template>
+            Bạn muốn biết gì về iPod? Hãy hỏi tôi về các mẫu iPod, tính năng, giá cả hoặc bất cứ điều gì liên quan đến iPod.
+        </template>
+    </category>
+
+    <category>
+        <pattern>GIỚI THIỆU IPOD</pattern>
+        <template>
+            iPod là dòng máy nghe nhạc của Apple, với thiết kế nhỏ gọn, chất lượng âm thanh tuyệt vời và khả năng lưu trữ lớn.
+        </template>
+    </category>
+
+    <!-- Câu hỏi về hệ điều hành iOS -->
+    <category>
+        <pattern>IOS</pattern>
+        <template>
+            iOS là hệ điều hành di động của Apple, nổi bật với tính bảo mật cao, giao diện thân thiện và hiệu năng mạnh mẽ. Bạn muốn biết gì thêm về iOS?
+        </template>
+    </category>
+
+    <category>
+        <pattern>GIỚI THIỆU IOS</pattern>
+        <template>
+            iOS là hệ điều hành di động được Apple phát triển cho các thiết bị iPhone, iPad và iPod Touch, nổi bật với tính bảo mật cao, giao diện người dùng thân thiện và hiệu suất ổn định.
+        </template>
+    </category>
+
+    <!-- Câu hỏi chung -->
+    <category>
+        <pattern>*</pattern>
+        <template>
+            Xin lỗi, tôi không hiểu câu hỏi của bạn. Bạn có thể hỏi về các sản phẩm iPhone, iPad, MacBook, iPod hoặc hệ điều hành iOS.
+        </template>
+    </category>
 </aiml>
