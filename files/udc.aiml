@@ -50,7 +50,29 @@
     <category>
         <pattern>GIỚI THIỆU IPHONE</pattern>
         <template>
-            **iPhone là dòng điện thoại thông minh của Apple, nổi bật với hệ điều hành iOS, thiết kế tinh tế và hiệu suất mạnh mẽ.**
+            **iPhone là dòng điện thoại thông minh của Apple, đây là tập đoàn công nghệ lớn của Mỹ được thành lập vào ngày 1/4/1976. Nổi bật với hệ điều hành iOS, thiết kế tinh tế và hiệu suất mạnh mẽ.**
+            <br/>**Ngoài iPhone, Apple còn sản xuất các sản phẩm công nghệ cao cấp khác. Chẳng hạn như iPad, MacBook, iMac, Mac mini, AirPods, AirTag, HomePod, Apple TV và một số sản phẩm khác.**
+            <br/>
+            <br/>Các dòng iPhone từ trước đến nay của Apple:
+            <br/> - iPhone 2G
+            <br/> - iPhone 3G
+            <br/> - iPhone 3GS
+            <br/> - iPhone 4 (2010)
+            <br/> - iPhone 4s (2011)
+            <br/> - iPhone 5 (2012)
+            <br/> - iPhone 5s/5c (2013)
+            <br/> - iPhone 6/6 Plus (2014)
+            <br/> - iPhone 6s/6s Plus (2015)
+            <br/> - iPhone SE (2016)
+            <br/> - iPhone 7/7 Plus (2016)
+            <br/> - iPhone 8/8 Plus (2017)
+            <br/> - iPhone X (2017)
+            <br/> - iPhone Xs/ Xr/ Xs Max (2018)
+            <br/> - iPhone 11 series (2019)
+            <br/> - iPhone SE (2020)
+            <br/> - iPhone 12 series (2020)
+            <br/> - iPhone 13 series (2021)
+            <br/> - iPhone 14 series (2022)
         </template>
     </category>
     
@@ -58,15 +80,38 @@
     <category>
         <pattern>CÁC MẪU IPHONE</pattern>
         <template>
-            **Hiện tại, các mẫu iPhone mới nhất bao gồm iPhone 13, iPhone 13 Pro, và iPhone 13 Pro Max.**
+            **Hiện tại, các mẫu iPhone mới nhất bao gồm iPhone 15, iPhone 15 Pro, và iPhone 15 Pro Max.**
             <br/><br/>
             <random>
-                <li>Bạn có thể tìm thông tin bằng từ khóa: ví dụ "iPhone 2G"...vv</li>
-                <li>Bạn có thể tìm thông tin bằng từ khóa: ví dụ "iPhone 4"...vv</li>
+                <li>Bạn có thể tìm kiếm thêm thông tin bằng từ khóa: ví dụ "iPhone 2G"...vv</li>
+                <li>Bạn có thể tìm kiếm thêm thông tin bằng từ khóa: ví dụ "iPhone 4"...vv</li>
+                <li>Bạn có thể tìm kiếm thêm thông tin bằng từ khóa: ví dụ "iPhone 8"...vv</li>
+                <li>Bạn có thể tìm kiếm thêm thông tin bằng từ khóa: ví dụ "iPhone 6"...vv</li>
+                <li>Bạn có thể tìm kiếm thêm thông tin bằng từ khóa: ví dụ "iPhone 8 Plus"...vv</li>
+                <li>Bạn có thể tìm kiếm thêm thông tin bằng từ khóa: ví dụ "iPhone XR"...vv</li>
+                <li>Bạn có thể tìm kiếm thêm thông tin bằng từ khóa: ví dụ "iPhone 11 Pro Max"...vv</li>
+                
             </random>
         </template>
     </category>
     
+        <category>
+            <pattern>iPhone 2G</pattern>
+            <template>
+                ***Vào năm 2007, trong khi thị trường đang sử dụng điện thoại có bàn phím truyền thống. Thì Apple đã cho ra mắt iPhone 2G, chiếc điện thoại full cảm ứng đầu tiên. Ngay lập tức chiếc điện thoại này trở thành hiện tượng và thay đổi thói quen sử dụng điện thoại của người dùng khi đó.***
+                <br/>
+                <br/>=====Thông tin về iPhone 2G=====
+                <br/>   Kích thước: 115 x 61 x 11,6 mm
+                <br/>   Màn hình: 3.5 inch
+                <br/>   Dung lượng pin: 1.400mAh
+                <br/>   Bộ nhớ : 8GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Hỗ trợ 100% cảm ứng 
+                <br/>   * Camera 2 MP
+                <br/>   Giá : 21.000.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
         <category>
             <pattern>iPhone 3G</pattern>
             <template>
@@ -81,11 +126,394 @@
                 <br/>   * Bàn phím ngang 
                 <br/>   * Tìm kiếm Spotlight 
                 <br/>   * Hỗ trợ mạng 3G
-                <br/>   Giá : 21.500.000
+                <br/>   Giá : 21.500.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone 3GS</pattern>
+            <template>
+                ***Năm 2009, Apple cho ra mắt iPhone 3GS. Điện thoại có hiệu năng vượt trội với hệ thống camera, khả năng kết nối 3G. Hay Bluetooth của máy cũng được nâng cấp, đem lại trải nghiệm sử dụng máy tốt hơn cho người dùng.***
+                <br/>
+                <br/>=====Thông tin về iPhone 3GS=====
+                <br/>   Kích thước: 115,5 x 62,1 x 12,3 mm
+                <br/>   Màn hình: 3.5 inch
+                <br/>   Dung lượng pin: 1200 mAh
+                <br/>   Bộ nhớ : 8GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Điều khiển bằng giọng nói
+                <br/>   * Ghi âm 
+                <br/>   * La bàn số
+                <br/>   Giá : 25.000.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone 4</pattern>
+            <template>
+                ***iPhone 4 đã đem đến thiết kế hoàn toàn mới lạ với ngoại hình vuông vức. Khung kim loại kết hợp với mặt kính phía sau, cho đến nay vẫn chưa hề lỗi thời. Điểm nổi bật của iPhone 4 chính là cụm camera trước tiện lợi. Cùng với tính năng FaceTime – gọi điện mặt đối mặt đã trở thành thương hiệu của Apple.***
+                <br/>
+                <br/>=====Thông tin về iPhone 4=====
+                <br/>   Kích thước: 115.2 x 58.6 x 9.3 mm 
+                <br/>   Màn hình: 3.5 inch
+                <br/>   Dung lượng pin: 1420 mAh
+                <br/>   Bộ nhớ : 8GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Nâng cấp lên camera 5MP với khả năng quay phim HD
+                <br/>   * Mạnh mẽ và tiết kiệm pin với vi xử lý Cortex A8
+                <br/>   Giá : 12.800.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone 4s</pattern>
+            <template>
+                ***Thiết kế của iPhone 4s không thay đổi quá nhiều. Nhưng cấu hình của máy được Apple nâng cấp mạnh mẽ và được bổ sung nhiều tính năng mới. iPhone 4s chính là smartphone đầu tiên được trang bị trợ lý ảo Siri.***
+                <br/>
+                <br/>=====Thông tin về iPhone 4s=====
+                <br/>   Kích thước: 115.2 x 58.6 x 9.3 mm
+                <br/>   Màn hình: 3.5 inch
+                <br/>   Dung lượng pin: 1420 mAh
+                <br/>   Bộ nhớ : 16GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Màn hình Retina rực rỡ
+                <br/>   * Chip xử lý A5 mạnh mẽ
+                <br/>   * Camera 8.0 MP xuất sắc
+                <br/>   Giá : 15.000.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone 5</pattern>
+            <template>
+                ***Thân máy được Apple kéo dài để tăng kích thước màn hình nhưng kích thước bề ngang vẫn giữ nguyên. Điều này đảm bảo sự nhỏ gọn, dễ cầm và sử dụng bằng 1 tay. Đây cũng chính là chiếc iPhone đầu tiên được tích hợp thêm tính năng chống rung khi quay phim và sử dụng cổng Lightning nhỏ gọn.***
+                <br/>
+                <br/>=====Thông tin về iPhone 5=====
+                <br/>   Kích thước: 123.8 x 58.6 x 7.6 mm
+                <br/>   Màn hình: 4 inch
+                <br/>   Dung lượng pin: 1440 mAh
+                <br/>   Bộ nhớ : 16GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Mở ứng dụng với tính năng Siri
+                <br/>   * Apple Maps thông minh hơn
+                <br/>   * Hỗ trợ chụp ảnh trong khi đang quay video
+                <br/>   Giá : 23.000.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone 5s</pattern>
+            <template>
+                ***Cho đến nay iPhone 5s vẫn được nhiều người đánh giá là chiếc iPhone đẹp nhất mà Apple từng đã tạo ra. Khác với iPhone 5s, iPhone 5c được thiết kế với vỏ nhựa kém tinh tế. Nên dù sở hữu rất nhiều phiên bản màu sắc độc đáo chưa từng có trên những dòng iPhone khác nhưng không được đón nhận.***
+                <br/>
+                <br/>=====Thông tin về iPhone 5s=====
+                <br/>   Kích thước: 123.8 x  58.6 x 9.3 mm	
+                <br/>   Màn hình: 4 inch
+                <br/>   Dung lượng pin: 1560 mAh
+                <br/>   Bộ nhớ : 16GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Cảm biến vân tay
+                <br/>   * Con chip Apple A7 2 nhân không tạo độ trễ trên máy
+                <br/>   Giá : 17.590.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone 5c</pattern>
+            <template>
+                ***Cho đến nay iPhone 5s vẫn được nhiều người đánh giá là chiếc iPhone đẹp nhất mà Apple từng đã tạo ra. Khác với iPhone 5s, iPhone 5c được thiết kế với vỏ nhựa kém tinh tế. Nên dù sở hữu rất nhiều phiên bản màu sắc độc đáo chưa từng có trên những dòng iPhone khác nhưng không được đón nhận.***
+                <br/>
+                <br/>=====Thông tin về iPhone 5c=====
+                <br/>   Kích thước: 123.8 x  58.6 x 9.3 mm	
+                <br/>   Màn hình: 4 inch
+                <br/>   Dung lượng pin: 1510 mAh
+                <br/>   Bộ nhớ : 16GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Có màn hình LCD 4 inch Retina sắc nét
+                <br/>   * Nâng cấp Camera iSight độ phân giải 8 MP
+                <br/>   Giá : 13.990.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone 6</pattern>
+            <template>
+                ***Apple đã cho ra mắt cùng lúc bộ đôi sản phẩm iPhone 6 và iPhone 6 Plus. Với hai kích thước màn hình khác nhau bao gồm 4.7 và 5.5 inch. Điều này đã dấu sự thay đổi để bắt kịp xu thế màn hình lớn.***
+                <br/>
+                <br/>=====Thông tin về iPhone 6=====
+                <br/>   Kích thước: 138.1 x 67 x 6.9 mm	
+                <br/>   Màn hình: 4.7 inch
+                <br/>   Dung lượng pin: 1810 mAh
+                <br/>   Bộ nhớ : 16GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Chip xử lý A8 giúp xử lý tác vụ nhanh hơn 30%
+                <br/>   * Nâng cấp lên chip đồ họa PowerVR GX6450 giúp xử lý hình ảnh có độ phân giải cao
+                <br/>   Giá : 17.990.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone 6 Plus</pattern>
+            <template>
+                ***Apple đã cho ra mắt cùng lúc bộ đôi sản phẩm iPhone 6 và iPhone 6 Plus. Với hai kích thước màn hình khác nhau bao gồm 4.7 và 5.5 inch. Điều này đã dấu sự thay đổi để bắt kịp xu thế màn hình lớn.***
+                <br/>
+                <br/>=====Thông tin về iPhone 6=====
+                <br/>   Kích thước: 158.1 x 77.8 x 7.1 mm
+                <br/>   Màn hình: 5.5 inch
+                <br/>   Dung lượng pin: 2915 mAh
+                <br/>   Bộ nhớ : 16GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Ảnh cho ra màu sắc tốt với camera có độ phân giải 8 MP, khẩu độ F2.2
+                <br/>   * Ống kính rộng giúp thu được ảnh nhiều cảnh vật hơn
+                <br/>   Giá : 20.399.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone 6s</pattern>
+            <template>
+                ***Thiết kế của iPhone 6s và 6s Plus không thay đổi quá nhiều. Nhưng được Apple nâng cấp và bổ sung nhiều tính năng mới. Chẳng hạn như cảm biến 3D Touch, RAM 2GB. Bộ đôi này có thêm một phiên bản màu vàng hồng (Rose Gold) từng gây sốt.***
+                <br/>
+                <br/>=====Thông tin về iPhone 6s=====
+                <br/>   Kích thước: 138.5 x 67.1 x 7.1 mm	
+                <br/>   Màn hình: 4.7 inch
+                <br/>   Dung lượng pin: 1715 mAh
+                <br/>   Bộ nhớ : 16GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Quay video phân giải 4K
+                <br/>   * Chụp ảnh chân dung với Retina flash
+                <br/>   Giá : 19.000.0000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone 6s Plus</pattern>
+            <template>
+                ***Thiết kế của iPhone 6s và 6s Plus không thay đổi quá nhiều. Nhưng được Apple nâng cấp và bổ sung nhiều tính năng mới. Chẳng hạn như cảm biến 3D Touch, RAM 2GB. Bộ đôi này có thêm một phiên bản màu vàng hồng (Rose Gold) từng gây sốt.***
+                <br/>
+                <br/>=====Thông tin về iPhone 6s Plus=====
+                <br/>   Kích thước: 158.2 x 77.9 x 7.3 mm
+                <br/>   Màn hình: 5.5 inch
+                <br/>   Dung lượng pin: 2750 mAh
+                <br/>   Bộ nhớ : 16GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Cảm ứng 3D Touch
+                <br/>   * Vi xử lý A9 giúp chạy nhiều ứng dụng mượt mà hơn
+                <br/>   Giá : 22.000.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone SE</pattern>
+            <template>
+                ***Đầu năm 2016 Apple bất ngờ cho ra mắt thêm một phiên bản iPhone SE. Hướng đến người dùng yêu thích một chiếc điện thoại nhỏ gọn nhưng cấu hình lại mạnh mẽ. iPhone SE được cho rằng là “xác” iPhone 5s và “hồn” iPhone 6s.***
+                <br/>
+                <br/>=====Thông tin về iPhone SE=====
+                <br/>   Kích thước: 123.8 x 68.5 x 7.6 mm
+                <br/>   Màn hình: 4 inch
+                <br/>   Dung lượng pin: 1642 mAh
+                <br/>   Bộ nhớ : 16GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Touch ID 1.0 cho ra tốc độ nhận diện nhanh chóng
+                <br/>   * Bộ vi xử lý Apple A9 + M9 motion processor với 2 nhân giúp các tựa game nặng mượt mà hơn
+                <br/>   Giá : 11.599.000 (tính từ thời điểm ra mắt sản phẩm)
             </template>
         </category>
 
-
+        <category>
+            <pattern>iPhone 7</pattern>
+            <template>
+                ***Bộ đôi iPhone 7 và 7 Plus sở hữu cấu hình vô cùng mạnh mẽ. Với bộ vi xử lý Apple A10 cân được tốt mọi tác vụ. iPhone 7 Plus được sở hữu hệ thống camera kép cực kỳ hoàn hảo. Cho phép người dùng chụp ảnh ở chế độ chân dung, hỗ trợ chụp xóa phông giống như một chiếc máy ảnh chuyên nghiệp.
+                <br/>
+                <br/>iPhone 7 tuy không có chế độ chân dung như iPhone 7 Plus. Nhưng cũng nổi bật với sự ổn định của hình ảnh quang học giúp hình ảnh rõ nét và video có độ ổn định tốt hơn.***
+                <br/>
+                <br/>=====Thông tin về iPhone 7=====
+                <br/>   Kích thước: 138.3 x 67.1 x 7.1 mm	
+                <br/>   Màn hình: 4.7 inch	
+                <br/>   Dung lượng pin: 1960mAh
+                <br/>   Bộ nhớ : 32GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Camera 7MP tăng độ chi tiết và sắc nét khi chụp ảnh selfie 
+                <br/>   * Cập nhật tính năng cảm biến vân tay nhanh và nhạy hơn
+                <br/>   Giá : 18.790.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone 7 Plus</pattern>
+            <template>
+                ***Bộ đôi iPhone 7 và 7 Plus sở hữu cấu hình vô cùng mạnh mẽ. Với bộ vi xử lý Apple A10 cân được tốt mọi tác vụ. iPhone 7 Plus được sở hữu hệ thống camera kép cực kỳ hoàn hảo. Cho phép người dùng chụp ảnh ở chế độ chân dung, hỗ trợ chụp xóa phông giống như một chiếc máy ảnh chuyên nghiệp.
+                <br/>
+                <br/>iPhone 7 tuy không có chế độ chân dung như iPhone 7 Plus. Nhưng cũng nổi bật với sự ổn định của hình ảnh quang học giúp hình ảnh rõ nét và video có độ ổn định tốt hơn.***
+                <br/>
+                <br/>=====Thông tin về iPhone 7 Plus=====
+                <br/>   Kích thước: 158.2 x 77.9 x 7.3 mm
+                <br/>   Màn hình: 5.5 inch
+                <br/>   Dung lượng pin: 2900mAh
+                <br/>   Bộ nhớ : 32GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Dàn loa stereo sống động
+                <br/>   * Màn hình Retina sắc nét
+                <br/>   Giá : 22.290.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone 8</pattern>
+            <template>
+                ***Bộ đôi iPhone 8 và iPhone 8 Plus không có thay đổi nhiều so với iPhone 7/7 Plus trước đó. Ngoại trừ việc Apple thiết kế lại mặt kính phía sau để hỗ trợ sạc không dây.***
+                <br/>
+                <br/>=====Thông tin về iPhone 8=====
+                <br/>   Kích thước: 138.4 x 67.3 x 7.3 mm	
+                <br/>   Màn hình: 4.7 inch	
+                <br/>   Dung lượng pin: 1821mAH
+                <br/>   Bộ nhớ : 64GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Camera 12 MP giúp ảnh chụp tăng độ sắc nét
+                <br/>   * Chip 6 nhân A11 Bionic giúp máy hoạt động mượt mà
+                <br/>   Giá : 20.990.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone 8 Plus</pattern>
+            <template>
+                ***Bộ đôi iPhone 8 và iPhone 8 Plus không có thay đổi nhiều so với iPhone 7/7 Plus trước đó. Ngoại trừ việc Apple thiết kế lại mặt kính phía sau để hỗ trợ sạc không dây.***
+                <br/>
+                <br/>=====Thông tin về iPhone 8 Plus=====
+                <br/>   Kích thước: 158.4 x 78.1 x 7.5 mm
+                <br/>   Màn hình: 5.5 inch
+                <br/>   Dung lượng pin: 2691mAh
+                <br/>   Bộ nhớ : 64GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Mở khóa bằng vân tay
+                <br/>   * Chip Apple A11 cùng với thực tế ảo AR tăng trải nghiệm sử dụng điện thoại
+                <br/>   Giá : 23.990.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone X</pattern>
+            <template>
+                ***iPhone X thực sự là chiếc iPhone mở đường cho tương lai của các dòng điện thoại iPhone sau này. Đây là chiếc đầu tiên trong số các dòng điện thoại iPhone có màn hình tràn viền và sở hữu màn hình OLED.***
+                <br/>
+                <br/>=====Thông tin về iPhone X=====
+                <br/>   Kích thước: 143.6 x 70.9 x 7.7 mm
+                <br/>   Màn hình: 5.8 inch
+                <br/>   Dung lượng pin: 2716mAh
+                <br/>   Bộ nhớ : 64GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Mở khóa khuôn mặt bằng Face ID
+                <br/>   * Hỗ trợ sạc không dây
+                <br/>   * Camera kép được cải tiến tích hợp Animoji
+                <br/>   Giá : 29.990.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone Xs</pattern>
+            <template>
+                ***iPhone Xs/ Xs Max không có nhiều thay đổi quá so với iPhone X.  Ngoài việc Apple cho ra thêm phiên bản màn hình lớn hơn. iPhone XR được trang bị màn hình LCD có độ phân giải thấp hơn iPhone Xs. Tuy chỉ có 1 camera sau nhưng máy sở hữu cấu hình mạnh mẽ, thời lượng pin dài.***
+                <br/>
+                <br/>=====Thông tin về iPhone Xs=====
+                <br/>   Kích thước: 143.6 x 70.9 x 7.7 mm	
+                <br/>   Màn hình: 5.8 inch
+                <br/>   Dung lượng pin: 2658mAh	
+                <br/>   Bộ nhớ : 64GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Chạm lấy nét
+                <br/>   * Quay video Full HD
+                <br/>   Giá : 23.000.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone Xr</pattern>
+            <template>
+                ***iPhone Xs/ Xs Max không có nhiều thay đổi quá so với iPhone X.  Ngoài việc Apple cho ra thêm phiên bản màn hình lớn hơn. iPhone XR được trang bị màn hình LCD có độ phân giải thấp hơn iPhone Xs. Tuy chỉ có 1 camera sau nhưng máy sở hữu cấu hình mạnh mẽ, thời lượng pin dài.***
+                <br/>
+                <br/>=====Thông tin về iPhone Xr=====
+                <br/>   Kích thước: 150.9 x 75.7 x 8.3 mm		
+                <br/>   Màn hình: 6.1 inch 	
+                <br/>   Dung lượng pin: 2942mAh
+                <br/>   Bộ nhớ : 64GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Apple Pay
+                <br/>   * Kháng nước và kháng bụi IP67
+                <br/>   Giá : 22.990.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone Xs Max</pattern>
+            <template>
+                ***iPhone Xs/ Xs Max không có nhiều thay đổi quá so với iPhone X.  Ngoài việc Apple cho ra thêm phiên bản màn hình lớn hơn. iPhone XR được trang bị màn hình LCD có độ phân giải thấp hơn iPhone Xs. Tuy chỉ có 1 camera sau nhưng máy sở hữu cấu hình mạnh mẽ, thời lượng pin dài.***
+                <br/>
+                <br/>=====Thông tin về iPhone Xs Max=====
+                <br/>   Kích thước: 157.5 x 77.4 x 7.7 mm
+                <br/>   Màn hình: 6.5 inch 	
+                <br/>   Dung lượng pin: 3174mAh
+                <br/>   Bộ nhớ : 64GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Điều chỉnh khẩu độ
+                <br/>   * Zoom quang học
+                <br/>   Giá : 43.990.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone 11</pattern>
+            <template>
+                ***Vào năm 2019, Apple đã cho ra mắt iPhone 11, iPhone 11 Pro và iPhone 11 Pro Max. Thay đổi chính của ba phiên bản này so với các dòng điện thoại iPhone trước đó là ở camera. Cả ba phiên bản đều sở hữu một camera siêu rộng hoàn toàn mới với độ rộng x0,5. Cho phép người dùng chụp ra những bức ảnh toàn cảnh đáng kinh ngạc.***
+                <br/>
+                <br/>=====Thông tin về iPhone 11=====
+                <br/>   Kích thước: 150.9 x 75.7 x 8.3 mm	
+                <br/>   Màn hình: 6.1 inch 	
+                <br/>   Dung lượng pin: 3110mAh, 18w	
+                <br/>   Bộ nhớ : 64GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Âm thanh Dolby Audio
+                <br/>   * Hỗ trợ ghi âm có microphone chuyên dụng chống ồn
+                <br/>   Giá : 21.990.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone 11 Pro</pattern>
+            <template>
+                ***Vào năm 2019, Apple đã cho ra mắt iPhone 11, iPhone 11 Pro và iPhone 11 Pro Max. Thay đổi chính của ba phiên bản này so với các dòng điện thoại iPhone trước đó là ở camera. Cả ba phiên bản đều sở hữu một camera siêu rộng hoàn toàn mới với độ rộng x0,5. Cho phép người dùng chụp ra những bức ảnh toàn cảnh đáng kinh ngạc.***
+                <br/>
+                <br/>=====Thông tin về iPhone 11 Pro=====
+                <br/>   Kích thước: 144 x 71.4 x 8.1 mm		
+                <br/>   Màn hình: 5.8 inch 	
+                <br/>   Dung lượng pin: 3046mAh		
+                <br/>   Bộ nhớ : 64GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Sở hữu tính năng chụp đêm và chụp hình với góc siêu rộng
+                <br/>   * Đây là chiếc iPhone đầu tiên có  3 camera
+                <br/>   Giá : 30.990.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone 11 Pro Max</pattern>
+            <template>
+                ***Vào năm 2019, Apple đã cho ra mắt iPhone 11, iPhone 11 Pro và iPhone 11 Pro Max. Thay đổi chính của ba phiên bản này so với các dòng điện thoại iPhone trước đó là ở camera. Cả ba phiên bản đều sở hữu một camera siêu rộng hoàn toàn mới với độ rộng x0,5. Cho phép người dùng chụp ra những bức ảnh toàn cảnh đáng kinh ngạc.***
+                <br/>
+                <br/>=====Thông tin về iPhone 11 Pro Max=====
+                <br/>   Kích thước: 158 x 77.8 x 8.1 mm
+                <br/>   Màn hình: 6.5 inch
+                <br/>   Dung lượng pin: 3969mAh
+                <br/>   Bộ nhớ : 64GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Dung lượng pin khỏe hơn so với các dòng iPhone trước đó
+                <br/>   * Chip A13 Bionic giúp cân tốt mọi loại game nặng
+                <br/>   Giá : 33.990.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        
+------------------------------------------------------------------------------------
     <category>
         <pattern>TÍNH NĂNG CỦA IPHONE</pattern>
         <template>
