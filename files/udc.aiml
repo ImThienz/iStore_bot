@@ -26,11 +26,11 @@
             </random>
             <br/>
             Bạn có thể hỏi các tùy chọn sau:
-            <br/> - iPhone
-            <br/> - iPad
-            <br/> - MacBook
-            <br/> - iPod
-            <br/> - iOS
+            <br/> - *iPhone*
+            <br/> - *iPad*
+            <br/> - *MacBook*
+            <br/> - *iPod*
+            <br/> - *iOS*
         </template>
     </category>
     
@@ -39,39 +39,64 @@
         <pattern>IPHONE</pattern>
         <template>
             Bạn muốn biết gì về iPhone? Hãy hỏi tôi về các mẫu iPhone, tính năng, giá cả hoặc bất cứ điều gì liên quan đến iPhone.
-            <br/> - Giới thiệu iPhone
-            <br/> - Các mẫu iPhone
-            <br/> - Tính năng của iPhone
-            <br/> - Giá cả của iPhone
+            <br/> - **Giới thiệu iPhone**
+            <br/> - **Các mẫu iPhone**
+            <br/> - **Tính năng của iPhone**
+            <br/> - **Giá cả của iPhone**
         </template>
     </category>
     
 
     <category>
-        <pattern>IPHONE_INTRODUCTION</pattern>
+        <pattern>GIỚI THIỆU IPHONE</pattern>
         <template>
-            iPhone là dòng điện thoại thông minh của Apple, nổi bật với hệ điều hành iOS, thiết kế tinh tế và hiệu suất mạnh mẽ.
+            **iPhone là dòng điện thoại thông minh của Apple, nổi bật với hệ điều hành iOS, thiết kế tinh tế và hiệu suất mạnh mẽ.**
         </template>
     </category>
+    
     
     <category>
         <pattern>CÁC MẪU IPHONE</pattern>
         <template>
-            Hiện tại, các mẫu iPhone mới nhất bao gồm iPhone 13, iPhone 13 Pro, và iPhone 13 Pro Max.
+            **Hiện tại, các mẫu iPhone mới nhất bao gồm iPhone 13, iPhone 13 Pro, và iPhone 13 Pro Max.**
+            <br/><br/>
+            <random>
+                <li>Bạn có thể tìm thông tin bằng từ khóa: ví dụ "iPhone 2G"...vv</li>
+                <li>Bạn có thể tìm thông tin bằng từ khóa: ví dụ "iPhone 4"...vv</li>
+            </random>
         </template>
     </category>
+    
+        <category>
+            <pattern>iPhone 3G</pattern>
+            <template>
+                ***Năm 2008, Apple cho ra mắt chiếc iPhone 3G với những cải tiến vượt bậc so với iPhone 2G. Máy hỗ trợ kết nối 3G, định vị GPS và kho ứng dụng App Store. Về mặt thiết kế, iPhone 3G có ngoại hình bầu bĩnh với logo táo khuyết nổi bật phía sau.***
+                <br/>
+                <br/>=====Thông tin về iPhone 3G=====
+                <br/>   Kích thước: 116 x 62 x 12 mm
+                <br/>   Màn hình: 3.5 inch
+                <br/>   Dung lượng pin: 1150 mAh
+                <br/>   Bộ nhớ : 16GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Bàn phím ngang 
+                <br/>   * Tìm kiếm Spotlight 
+                <br/>   * Hỗ trợ mạng 3G
+                <br/>   Giá : 21.500.000
+            </template>
+        </category>
+
 
     <category>
         <pattern>TÍNH NĂNG CỦA IPHONE</pattern>
         <template>
-            iPhone có nhiều tính năng nổi bật như camera chất lượng cao, hiệu suất mạnh mẽ với chip A-series, và hệ điều hành iOS mượt mà.
+            **iPhone có nhiều tính năng nổi bật như camera chất lượng cao, hiệu suất mạnh mẽ với chip A-series, và hệ điều hành iOS mượt mà.**
         </template>
     </category>
 
     <category>
         <pattern>GIÁ CẢ CỦA IPHONE</pattern>
         <template>
-            Giá của iPhone thay đổi tùy theo mẫu và dung lượng bộ nhớ. Ví dụ, iPhone 13 có giá bắt đầu từ $799.
+            **Giá của iPhone thay đổi tùy theo mẫu và dung lượng bộ nhớ. Ví dụ, iPhone 13 có giá bắt đầu từ $799.**
         </template>
     </category>
     
