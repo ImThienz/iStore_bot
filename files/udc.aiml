@@ -41,6 +41,7 @@
             Bạn muốn biết gì về iPhone? Hãy hỏi tôi về các mẫu iPhone, tính năng, giá cả hoặc bất cứ điều gì liên quan đến iPhone.
             <br/> - **Giới thiệu iPhone**
             <br/> - **Các mẫu iPhone**
+            <br/> - **Một số hình ảnh**
             <br/> - **Tính năng của iPhone**
             <br/> - **Giá cả của iPhone**
         </template>
@@ -512,8 +513,343 @@
             </template>
         </category>
         
+        <category>
+            <pattern>iPhone SE</pattern>
+            <template>
+                ***Đa số tất cả các dòng iPhone của Apple đều thuộc phân khúc cao cấp. iPhone SE được xem là một thiết bị tầm trung hiếm hoi của nhà táo khuyết vẫn còn được ưa chuộng ở hiện tại. Vì thiết bị sở hữu vóc dáng nhỏ gọn tương tự như chiếc iPhone 8 cùng hãng.***
+                <br/>
+                <br/>=====Thông tin về iPhone SE=====
+                <br/>   Kích thước: 138.4 x 67.3 x 7.3 mm
+                <br/>   Màn hình: 4.7 inch
+                <br/>   Dung lượng pin: 1821mAh
+                <br/>   Bộ nhớ : 64GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Camera đơn hỗ trợ xóa phông
+                <br/>   * Quay phim 4K siêu nét
+                <br/>   Giá : 11.990.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
         
+        <category>
+            <pattern>iPhone 12</pattern>
+            <template>
+                ***Trong năm 2020, Apple tung ra 4 phiên bản iPhone gồm: iPhone 12 mini, iPhone 12, iPhone 12 Pro, iPhone 12 Pro Max. Tất cả đều được trang bị cấu hình mạnh mẽ với bộ vi xử lý A14 Bionic. Con chip di động sở hữu hiệu năng CPU và GPU nhanh  và mạnh nhất hiện nay.***
+                <br/>
+                <br/>=====Thông tin về iPhone 12=====
+                <br/>   Kích thước: 146.7 x 71.5 x 7.4 mm	
+                <br/>   Màn hình: 6.1 inch
+                <br/>   Dung lượng pin: 2815mAh
+                <br/>   Bộ nhớ : 64GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Hệ thống 5G
+                <br/>   * Hỗ trợ Widget
+                <br/>   Giá : 25.000.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone 12 mini</pattern>
+            <template>
+                ***Trong năm 2020, Apple tung ra 4 phiên bản iPhone gồm: iPhone 12 mini, iPhone 12, iPhone 12 Pro, iPhone 12 Pro Max. Tất cả đều được trang bị cấu hình mạnh mẽ với bộ vi xử lý A14 Bionic. Con chip di động sở hữu hiệu năng CPU và GPU nhanh  và mạnh nhất hiện nay.***
+                <br/>
+                <br/>=====Thông tin về iPhone 12 mini=====
+                <br/>   Kích thước: 131.5 x 64.2 x 7.4 mm		
+                <br/>   Màn hình: 5.4 inch
+                <br/>   Dung lượng pin: 2227mAh	
+                <br/>   Bộ nhớ : 64GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Được nâng cấp và trang bị mặt kính Ceramic Shield
+                <br/>   * Có hỗ trợ sạc nhanh 20w
+                <br/>   Giá : 21.990.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone 12 Pro</pattern>
+            <template>
+                ***Trong năm 2020, Apple tung ra 4 phiên bản iPhone gồm: iPhone 12 mini, iPhone 12, iPhone 12 Pro, iPhone 12 Pro Max. Tất cả đều được trang bị cấu hình mạnh mẽ với bộ vi xử lý A14 Bionic. Con chip di động sở hữu hiệu năng CPU và GPU nhanh  và mạnh nhất hiện nay.***
+                <br/>
+                <br/>=====Thông tin về iPhone 12 Pro=====
+                <br/>   Kích thước: 146.7 x 71.5 x 7.4 mm			
+                <br/>   Màn hình: 6.1 inch
+                <br/>   Dung lượng pin: 2815mAh	
+                <br/>   Bộ nhớ : 128GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Camera chính 12MP cùng với cảm biến TOF 3D LiDAR 
+                <br/>   * Hỗ trợ quay video 4K với tốc độ 24/30/6fps
+                <br/>   Giá : 29.990.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone 12 Pro Max</pattern>
+            <template>
+                ***Trong năm 2020, Apple tung ra 4 phiên bản iPhone gồm: iPhone 12 mini, iPhone 12, iPhone 12 Pro, iPhone 12 Pro Max. Tất cả đều được trang bị cấu hình mạnh mẽ với bộ vi xử lý A14 Bionic. Con chip di động sở hữu hiệu năng CPU và GPU nhanh  và mạnh nhất hiện nay.***
+                <br/>
+                <br/>=====Thông tin về iPhone 12 Pro Max=====
+                <br/>   Kích thước: 160.8 x 78.1 x 7.4 mm
+                <br/>   Màn hình: 6.7 inch
+                <br/>   Dung lượng pin: 3687mAh
+                <br/>   Bộ nhớ : 128GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Sạc không dây Magsaf
+                <br/>   * Cập nhật tính năng cảm biến LiDAR đo độ sâu bằng tia laser
+                <br/>   Giá : 33.990.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone 13</pattern>
+            <template>
+                ***Vào năm 2021, Apple đã cho ra mắt các dòng iPhone 12. Bao gồm các dòng: iPhone 13, iPhone 13 mini, iPhone 13 Pro và iPhone 13 Pro Max. Các dòng iPhone 13 đều được kế thừa toàn bộ thiết kế của iPhone 12 series. Tuy nhiên, Apple cũng tạo ra một điểm khác biệt đó là gia tăng kích thước của các ống kính chụp ảnh một chút.***
+                <br/>
+                <br/>=====Thông tin về iPhone 13=====
+                <br/>   Kích thước: 146.7 x 71.5 x 7.7 mm	
+                <br/>   Màn hình: 6.1 inch
+                <br/>   Dung lượng pin: 3240mAh, 20w
+                <br/>   Bộ nhớ : 128GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Chế độ quay phim Cinematic Mode	
+                <br/>   Giá : 24.990.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone 13 mini</pattern>
+            <template>
+                ***Vào năm 2021, Apple đã cho ra mắt các dòng iPhone 12. Bao gồm các dòng: iPhone 13, iPhone 13 mini, iPhone 13 Pro và iPhone 13 Pro Max. Các dòng iPhone 13 đều được kế thừa toàn bộ thiết kế của iPhone 12 series. Tuy nhiên, Apple cũng tạo ra một điểm khác biệt đó là gia tăng kích thước của các ống kính chụp ảnh một chút.***
+                <br/>
+                <br/>=====Thông tin về iPhone 13 mini=====
+                <br/>   Kích thước: 131.5 x 64.2 x 7.7 mm	
+                <br/>   Màn hình: 5.4 inch	
+                <br/>   Dung lượng pin: 2438mAh, 20w	
+                <br/>   Bộ nhớ : 128GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Hỗ trợ Smart HD 4R		
+                <br/>   Giá : 21.990.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone 13 Pro</pattern>
+            <template>
+                ***Vào năm 2021, Apple đã cho ra mắt các dòng iPhone 12. Bao gồm các dòng: iPhone 13, iPhone 13 mini, iPhone 13 Pro và iPhone 13 Pro Max. Các dòng iPhone 13 đều được kế thừa toàn bộ thiết kế của iPhone 12 series. Tuy nhiên, Apple cũng tạo ra một điểm khác biệt đó là gia tăng kích thước của các ống kính chụp ảnh một chút.***
+                <br/>
+                <br/>=====Thông tin về iPhone 13 Pro=====
+                <br/>   Kích thước: 146.7 x 71.5 x 7.7 mm	
+                <br/>   Màn hình: 6.1 inch	
+                <br/>   Dung lượng pin: 3095mAh, 20w		
+                <br/>   Bộ nhớ : 128GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Tăng cường khả năng kháng nước  IEC 60529			
+                <br/>   Giá : 30.990.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone 13 Pro Max</pattern>
+            <template>
+                ***Vào năm 2021, Apple đã cho ra mắt các dòng iPhone 12. Bao gồm các dòng: iPhone 13, iPhone 13 mini, iPhone 13 Pro và iPhone 13 Pro Max. Các dòng iPhone 13 đều được kế thừa toàn bộ thiết kế của iPhone 12 series. Tuy nhiên, Apple cũng tạo ra một điểm khác biệt đó là gia tăng kích thước của các ống kính chụp ảnh một chút.***
+                <br/>
+                <br/>=====Thông tin về iPhone 13 Pro Max=====
+                <br/>   Kích thước: 160.8 x 78.1 x 7.7 mm
+                <br/>   Màn hình: 6.7 inch	
+                <br/>   Dung lượng pin: 4352mAh
+                <br/>   Bộ nhớ : 128GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Công nghệ ProMotion giúp thay đổi tần số quét từ 10 đến 120 lần mỗi giây tùy thuộc vào ứng dụng
+                <br/>   Giá : 33.990.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone 14</pattern>
+            <template>
+                ***Vào năm 2022, Apple đã cho ra mắt 4 dòng iPhone 14 series. Bao gồm các dòng: iPhone 14, iPhone 14 Plus, iPhone 14 Pro và iPhone 14 Pro Max. Khác với năm 2021 thì iPhone 13 mini không còn xuất hiện thay vào đó là iPhone 14 Plus. Lý do người dùng ưu tiên sử dụng Smartphone có màn hình lớn để thuận tiện làm việc và giải trí.***
+                <br/>
+                <br/>=====Thông tin về iPhone 14=====
+                <br/>   Kích thước: 146.7 x 71.5 x 7.8 mm	
+                <br/>   Màn hình: 6.1 inch	
+                <br/>   Dung lượng pin: 3279mAh, 20w	
+                <br/>   Bộ nhớ : 128GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Nâng cấp 2 tính năng mới SOS khẩn cấp và Phát hiện sự cố	
+                <br/>   Giá : 24.990.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone 14 Plus</pattern>
+            <template>
+                ***Vào năm 2022, Apple đã cho ra mắt 4 dòng iPhone 14 series. Bao gồm các dòng: iPhone 14, iPhone 14 Plus, iPhone 14 Pro và iPhone 14 Pro Max. Khác với năm 2021 thì iPhone 13 mini không còn xuất hiện thay vào đó là iPhone 14 Plus. Lý do người dùng ưu tiên sử dụng Smartphone có màn hình lớn để thuận tiện làm việc và giải trí.***
+                <br/>
+                <br/>=====Thông tin về iPhone 14 Plus=====
+                <br/>   Kích thước: 160.8 x 78.1 x 7.8 mm		
+                <br/>   Màn hình: 6.7 inch	
+                <br/>   Dung lượng pin: 4325mAh, 20w		
+                <br/>   Bộ nhớ : 128GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Bổ sung tính năng phát hiện va chạm ( Crash Detection)		
+                <br/>   Giá : 27.990.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone 14 Pro</pattern>
+            <template>
+                ***Vào năm 2022, Apple đã cho ra mắt 4 dòng iPhone 14 series. Bao gồm các dòng: iPhone 14, iPhone 14 Plus, iPhone 14 Pro và iPhone 14 Pro Max. Khác với năm 2021 thì iPhone 13 mini không còn xuất hiện thay vào đó là iPhone 14 Plus. Lý do người dùng ưu tiên sử dụng Smartphone có màn hình lớn để thuận tiện làm việc và giải trí.***
+                <br/>
+                <br/>=====Thông tin về iPhone 14 Pro=====
+                <br/>   Kích thước: 147.5 x 71.5 x 7.9 mm			
+                <br/>   Màn hình: 6.1 inch	
+                <br/>   Dung lượng pin: 3200mAh, 20w	
+                <br/>   Bộ nhớ : 128GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Màn hình luôn được hiển thị AOD	
+                <br/>   Giá : 30.990.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone 14 Pro Max</pattern>
+            <template>
+                ***Vào năm 2022, Apple đã cho ra mắt 4 dòng iPhone 14 series. Bao gồm các dòng: iPhone 14, iPhone 14 Plus, iPhone 14 Pro và iPhone 14 Pro Max. Khác với năm 2021 thì iPhone 13 mini không còn xuất hiện thay vào đó là iPhone 14 Plus. Lý do người dùng ưu tiên sử dụng Smartphone có màn hình lớn để thuận tiện làm việc và giải trí.***
+                <br/>
+                <br/>=====Thông tin về iPhone 14 Pro Max=====
+                <br/>   Kích thước: 160.7 x 77.6 x 7.9 mm
+                <br/>   Màn hình: 6.7 inch	
+                <br/>   Dung lượng pin: 4323mAh, 20w
+                <br/>   Bộ nhớ : 128GB
+                <br/>   Tính năng đặc trưng	: 
+                <br/>   * Chạm 2 lần là sáng màn hình. Cùng với công nghệ Always On Display. Điều này cho phép thiết bị không tắt màn hình hẳn đi. Mà vẫn hiển thị màn hình khóa với một độ sáng nhỏ
+                <br/>   Giá : 33.990.000 (tính từ thời điểm ra mắt sản phẩm)
+            </template>
+        </category>
+        
+        
+    <category>
+        <pattern>MỘT SỐ HÌNH ẢNH</pattern>
+        <template>
+            ***Bạn cần thực hiện một vài thao tác sau:***
+            <br/>VÍ DỤ:
+            <random>
+                <br/>
+                <li><br/> - Search "Ảnh iPhone 12" để xem hình ảnh</li>
+                <li><br/> - Search "Ảnh iPhone 13 Pro Max" để xem hình ảnh</li>
+                <li><br/> - Search "Ảnh iPhone 11 Pro" để xem hình ảnh</li>
+                <li><br/> - Search "Ảnh iPhone Xr" để xem hình ảnh</li>
+                <li><br/> - Search "Ảnh iPhone Xs Max" để xem hình ảnh</li>
+                <li><br/> - Search "Ảnh iPhone 12 mini" để xem hình ảnh</li>
+                <li><br/> - Search "Ảnh iPhone 15 Pro Max" để xem hình ảnh</li>
+                <li><br/> - Search "Ảnh iPhone 8" để xem hình ảnh</li>
+                <li><br/> - Search "Ảnh iPhone 7 Plus" để xem hình ảnh</li>
+                <li><br/> - Search "Ảnh iPhone 5" để xem hình ảnh</li>
+                <li><br/> - Search "Ảnh iPhone 6 Plus" để xem hình ảnh</li>
+                <li><br/> - Search "Ảnh iPhone 14" để xem hình ảnh</li>
+                <li><br/> - Search "Ảnh iPhone 14 Pro Max" để xem hình ảnh</li>
+                <li><br/> - Search "Ảnh iPhone 15" để xem hình ảnh</li>
+                <li><br/> - Search "Ảnh iPhone 11" để xem hình ảnh</li>
+            </random>
+        </template>
+    </category>
+    
+        
+    
+        <category>
+            <pattern>Ảnh iPhone 12</pattern>
+            <template>
+                <a href="https://cdn.tgdd.vn/Products/Images/42/213031/iphone-12-do-1-1-org.jpg">Thông tin về iPhone 12 màu đỏ</a>
+                <a href="https://cdn.tgdd.vn/Products/Images/42/213031/iphone-12-xanh-duong-1-1-org.jpg">Thông tin về iPhone 12 màu xanh dương</a>
+                <a href="https://cdn.tgdd.vn/Products/Images/42/213031/iphone-12-1-2.jpg">Thông tin về iPhone 12 màu tím</a>
+                <a href="https://cdn.tgdd.vn/Products/Images/42/213031/iphone-12-den-1-1-org.jpg">Thông tin về iPhone 12 màu đen</a>
+                <a href="https://cdn.tgdd.vn/Products/Images/42/213031/iphone-12-xanh-la-1-1-org.jpg">Thông tin về iPhone 12 màu xanh lá</a>
+                <a href="https://cdn.tgdd.vn/Products/Images/42/213031/iphone-12-trang-1-1-org.jpg">Thông tin về iPhone 12 màu trắng</a>
+            </template>    
+        </category>
+        
+        <category>
+            <pattern>Ảnh iPhone 12 mini</pattern>
+            <template>
+                <a href="https://clickbuy.com.vn//uploads/images/2020/10/thumb_iP12_3.jpg">Thông tin về iPhone 12 mini màu đỏ</a>
+                <a href="https://clickbuy.com.vn//uploads/images/2020/10/thumb_iP12_5.jpg">Thông tin về iPhone 12 mini màu xanh dương</a>
+                <a href="https://clickbuy.com.vn//uploads/images/2021/03/thumb_iP12_6.jpg">Thông tin về iPhone 12 mini màu tím</a>
+                <a href="https://clickbuy.com.vn//uploads/images/2020/10/thumb_iP12_1.jpg">Thông tin về iPhone 12 mini màu đen</a>
+                <a href="https://clickbuy.com.vn//uploads/images/2020/10/thumb_iP12_2.jpg">Thông tin về iPhone 12 mini màu xanh lá</a>
+                <a href="https://clickbuy.com.vn//uploads/images/2020/10/thumb_iP12_4.jpg">Thông tin về iPhone 12 mini màu trắng</a>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Ảnh iPhone 12 Pro</pattern>
+            <template>
+                <a href="https://clickbuy.com.vn//uploads/images/2020/10/thumb_IP12Pro_3.jpg">Thông tin về iPhone 12 Pro Gold</a>
+                <a href="https://clickbuy.com.vn//uploads/images/2020/10/thumb_IP12Pro_3.jpg">Thông tin về iPhone 12 Pro Pacific Blue</a>
+                <a href="https://clickbuy.com.vn//uploads/images/2020/10/thumb_IP12Pro_1.jpg">Thông tin về iPhone 12 Pro Graphite Black</a>
+                <a href="https://clickbuy.com.vn//uploads/images/2020/10/thumb_IP12Pro_2.jpg">Thông tin về iPhone 12 Pro Silver</a>            </template>
+        </category>
+        
+        <category>
+            <pattern>Ảnh iPhone 12 Pro Max</pattern>
+            <template>
+                <a href="https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/o/download_2__1_27.png">Thông tin về iPhone 12 Pro Max Gold</a>
+                <a href="https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/o/download_37__28.png">Thông tin về iPhone 12 Pro Max Pacific Blue</a>
+                <a href="https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/o/download_1__2_25.png">Thông tin về iPhone 12 Pro Max Graphite Black</a>
+                <a href="https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/o/download_4_1.png">Thông tin về iPhone 12 Pro Max Silver</a>            </template>
+        </category>
+        
+        <category>
+            <pattern>Ảnh iPhone 13</pattern>
+            <template>
+                <a href="https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/1/3/13_4_8_1_1_1_1.jpg">Thông tin về iPhone 13 màu đỏ</a>
+                <a href="https://cdn2.cellphones.com.vn/358x/media/catalog/product/d/_/d_ng_3.jpg">Thông tin về iPhone 13 màu xanh dương</a>
+                <a href="https://cdn2.cellphones.com.vn/358x/media/catalog/product/t/r/tr_ng_5.jpg">Thông tin về iPhone 13 màu trắng</a>
+                <a href="https://cdn2.cellphones.com.vn/358x/media/catalog/product/h/_/h_ng_4.jpg">Thông tin về iPhone 13 màu hồng</a>
+                <a href="https://cdn2.cellphones.com.vn/358x/media/catalog/product/x/n/xnnah_kas_3.png">Thông tin về iPhone 13 màu xanh lá</a>
+                <a href="https://cdn2.cellphones.com.vn/358x/media/catalog/product/_/e/_en_2_5.jpg">Thông tin về iPhone 13 màu đen</a>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Ảnh iPhone 13 mini</pattern>
+            <template>
+                <a href="https://product.hstatic.net/1000300544/product/iphone-13-pro-gold-select_30a3f1f3d152401aa1cf70a831e9baac_grande.png">Thông tin về iPhone 13 mini Gold</a>
+                <a href="https://bizweb.dktcdn.net/thumb/1024x1024/100/318/659/products/iphone-13-mini-blue-select-2021-b3432d0f-3d9d-4e6a-bde4-5ecca54c86bd-a53ee6ac-c9e2-4bac-afd2-5e749833d942.png?v=1633671470257">Thông tin về iPhone 13 mini màu xanh dương</a>
+                <a href="https://bizweb.dktcdn.net/thumb/1024x1024/100/318/659/products/iphone-13-mini-midnight-select-2021-4ba30ad2-ac93-4f64-b84b-9725bb5605da-6548aefd-321f-4802-b71b-2bd80ec25c1a.png?v=1633671470257">Thông tin về iPhone 13 mini màu đen</a>
+                <a href="https://bizweb.dktcdn.net/thumb/1024x1024/100/318/659/products/iphone-13-mini-pink-select-2021-74822129-5cf0-4b25-be83-b8e71a4a7d8d-bd162b5f-8c69-4290-bf5a-2ef25f21881a.png?v=1633671470257">Thông tin về iPhone 13 mini màu hồng</a>
+                <a href="https://bizweb.dktcdn.net/thumb/1024x1024/100/318/659/products/iphone-13-mini-product-red-select-2021-a1b37df5-da18-44f2-a87e-c7f830f36ed8-66c4642e-32b0-4dfb-9ea0-559e68c57006.png?v=1633671470257">Thông tin về iPhone 13 mini màu đỏ</a>
+                <a href="https://bizweb.dktcdn.net/thumb/1024x1024/100/318/659/products/iphone-13-mini-starlight-select-2021-6f62e200-c558-4e5a-9e94-6dc217df053f-3f7c5e4d-294a-4ee4-87f1-da9cec1fca9e.png?v=1633671470257">Thông tin về iPhone 13 mini màu trắng</a>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Ảnh iPhone 13 Pro</pattern>
+            <template>
+                <a href="https://product.hstatic.net/1000300544/product/iphone-13-pro-gold-select_30a3f1f3d152401aa1cf70a831e9baac_grande.png">Thông tin về iPhone 13 Pro Gold</a>
+                <a href="https://product.hstatic.net/1000300544/product/iphone-13-pro-blue-select_b2971e7cc3cb4a43af5ad7ab4fce9f63_1024x1024.png">Thông tin về iPhone 13 Pro màu xanh dương</a>
+                <a href="https://product.hstatic.net/1000300544/product/iphone-13-pro-graphite-select_3c9b9d8ada5d41a1b8d920f67aecda57_1024x1024.png">Thông tin về iPhone 13 Pro Graphite Black</a>
+                <a href="https://product.hstatic.net/1000300544/product/iphone-13-pro-silver-select_a5b3875665ea46ae95254ef86d397726_1024x1024.png">Thông tin về iPhone 13 Pro Silver</a>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Ảnh iPhone 13 Pro Max</pattern>
+            <template>
+                <a href="https://duongphi.com/wp-content/uploads/2021/09/iphone-13-pro-max-gold-select.png">Thông tin về iPhone 13 Pro Max Gold</a>
+                <a href="https://duongphi.com/wp-content/uploads/2021/09/iphone-13-pro-max-blue-select.png">Thông tin về iPhone 13 Pro Max màu xanh dương</a>
+                <a href="https://duongphi.com/wp-content/uploads/2021/09/iphone-13-pro-max-graphite-select.png">Thông tin về iPhone 13 Pro Max Graphite Black</a>
+                <a href="https://duongphi.com/wp-content/uploads/2021/09/iphone-13-pro-max-silver-select.png">Thông tin về iPhone 13 Pro Max Silver</a>
+            </template>
+        </category>
+    
 ------------------------------------------------------------------------------------
+
+    <category>
+        <pattern>GIÁ CẢ CỦA IPHONE</pattern>
+        <template>
+            **Giá của iPhone thay đổi tùy theo mẫu và dung lượng bộ nhớ. Ví dụ, iPhone 13 có giá bắt đầu từ $799.**
+        </template>
+    </category>
+
     <category>
         <pattern>TÍNH NĂNG CỦA IPHONE</pattern>
         <template>
