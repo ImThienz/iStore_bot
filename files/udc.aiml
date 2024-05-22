@@ -52,6 +52,7 @@
         </template>
     </category>
     
+------------------------------------------------------------------------------------
 
     <category>
         <pattern>GIỚI THIỆU IPHONE</pattern>
@@ -80,7 +81,9 @@
                 <li>iPhone 12 series (2020)</li>
                 <li>iPhone 13 series (2021)</li>
                 <li>iPhone 14 series (2022)</li>
+                <li>iPhone 15 series (2023)</li>
             </ul>
+            <video>https://www.apple.com/105/media/us/iphone-15/2023/434c1226-dcdc-47be-ae28-6cb67a3a5a7c/anim/hero/large_2x.mp4</video>
         </template>
     </category>
     
@@ -733,6 +736,63 @@
             </template>
         </category>
         
+        <category>
+            <pattern>iPhone 15</pattern>
+            <template>
+                =====Những tính năng nổi bật về iPhone 15=====
+                <ul>
+                    <li>Thiết kế thời thượng và bền bỉ - Mặt lưng kính được pha màu xu hướng cùng khung viền nhôm bền bỉ</li>
+                    <li>Dynamic Island hiển thị linh động mọi thông báo ngay lập tức giúp bạn nắm bắt mọi thông tin</li>
+                    <li>Chụp ảnh đẹp nức lòng - Camera chính 48MP, Độ phân giải lên đến 4x và Tele 2x chụp chân dung hoàn hảo</li>
+                    <li>Pin dùng cả ngày không lắng lo - Thời gian xem video lên đến 20 giờ và sạc nhanh qua cổng USB-C tiện lợ</li>
+                </ul>
+                iPhone 15 128GB được trang bị màn hình Dynamic Island kích thước 6.1 inch với công nghệ hiển thị Super Retina XDR màn lại trải nghiệm hình ảnh vượt trội. Điện thoại với mặt lưng kính nhám chống bám mồ hôi cùng 5 phiên bản màu sắc lựa chọn: Hồng, Vàng, Xanh lá, Xanh dương và đen. Camera trên iPhone 15 series cũng được nâng cấp lên cảm biến 48MP cùng tính năng chụp zoom quang học tới 2x. Cùng với thiết kế cổng sạc thay đổi từ lightning sang USB-C vô cùng ấn tượng.
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone 15 Plus</pattern>
+            <template>
+                =====Những tính năng nổi bật về iPhone 15 Plus=====
+                <ul>
+                    <li>Thiết kế dẫn đầu xu hướng - Nhiều màu sắc trendy cùng chất liệu kính pha màu và khung nhôm vô cùng bền bỉ</li>
+                    <li>Nắm bắt và tương tác mọi thông tin dễ dàng hơn với Dynamic Island mở rộng</li>
+                    <li>Chụp ảnh chân dung xuất sắc mọi khoảnh khắc - Camera chính 48MP với tele 2X và chế độ chỉnh sửa đa dạng</li>
+                    <li>Hiệu năng cân mọi tác vụ - A16 Bionic mạnh mẽ cho mọi thao tác mượt mà và nhanh chóng</li>
+                </ul>
+                iPhone 15 Plus được đánh giá cao bởi màn hình Dynamic Island 6.7 inch với mặt kính lưng pha màu ấn tượng, chip A16 Bionic mạnh mẽ cùng cổng sạc USB-C cho khả năng sạc đầy nhanh chóng. Ngoài ra, phiên bản Plus thuộc series iPhone 15 còn sở hữu 5 phiên bản màu pastel thanh lịch phù hợp với nhiều đối tượng khách hàng: hồng, vàng, xanh lá, xanh dương, đen. Xem thêm các thông tin hữu ích khác về điện thoại iPhone 15 Plus sau đây!
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone 15 Pro</pattern>
+            <template>
+                =====Những tính năng nổi bật về iPhone 15 Pro=====
+                <ul>
+                    <li>Thiết kế khung viền từ titan mới - Vật liệu cực nhẹ, bền cùng viền cạnh mỏng cho cảm giác cầm nắm thoải mái</li>
+                    <li>Luôn mạnh mẽ ở bất kì tác vụ nào với Chip A17 Pro cho đồ họa có độ phân giải cao nhưng tiêu thụ điện năng ít hơn</li>
+                    <li>Dynamic Island hiển thị linh động các cảnh báo giúp bạn không bỏ lỡ thông tin nào</li>
+                    <li>Bắt trọn khoảng khắc bạn yêu - Cụm 3 camera sau đến 48MP chụp đêm và chân dung hoàn hảo</li>
+                </ul>
+                Điện thoại iPhone 15 Pro được trang bị màn hình mới Dynamic Island với kích thước 6.1 inch cùng công nghệ ProMotion và tính năng Always On Display. Thiết bị cũng có nhiều thay đổi trong thiết kế với nút hành động cùng cổng sạc USB-C, khung viền titan sang trọng. Thế hệ điện thoại iPhone 15 mới này được trang bị 04 màu sắc mới như Titan tự nhiên, titan đen, titan trắng và titan xanh.
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPhone 15 Pro Max</pattern>
+            <template>
+                =====Những tính năng nổi bật về iPhone 15 Pro Max=====
+                <ul>
+                    <li>Thiết kế khung viền từ titan chuẩn hàng không vũ trụ - Cực nhẹ, bền cùng viền cạnh mỏng cầm nắm thoải mái</li>
+                    <li>Hiệu năng Pro chiến game thả ga - Chip A17 Pro mang lại hiệu năng đồ họa vô cùng sống động và chân thực</li>
+                    <li>Thoả sức sáng tạo và quay phim chuyên nghiệp - Cụm 3 camera sau đến 48MP và nhiều chế độ tiên tiến</li>
+                    <li>Nút tác vụ mới giúp nhanh chóng kích hoạt tính năng yêu thích của bạn</li>
+                </ul>
+                iPhone 15 Pro Max thiết kế mới với chất liệu titan chuẩn hàng không vũ trụ bền bỉ, trọng lượng nhẹ, đồng thời trang bị nút Action và cổng sạc USB-C tiêu chuẩn giúp nâng cao tốc độ sạc. Khả năng chụp ảnh đỉnh cao của iPhone 15 bản Pro Max đến từ camera chính 48MP, camera UltraWide 12MP và camera telephoto có khả năng zoom quang học đến 5x. Bên cạnh đó, iPhone 15 ProMax sử dụng chip A17 Pro mới mạnh mẽ. Xem thêm chi tiết những điểm nổi bật của sản phẩm qua thông tin sau!
+            </template>
+        </category>
+        
+------------------------------------------------------------------------------------        
         
     <category>
         <pattern>MỘT SỐ HÌNH ẢNH</pattern>
@@ -1110,6 +1170,34 @@
                 <a href="https://onewaymobile.vn/images/products/2022/09/10/large/14-promax-1_1662777476.webp">Thông tin về iPhone 14 Pro Max màu đen</a>   -->
             </template>
         </category>
+        
+        <category>
+            <pattern>Ảnh iPhone 15</pattern>
+            <template>
+                <image>https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-15-plus_1__1.png</image>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Ảnh iPhone 15 Plus</pattern>
+            <template>
+                <image>https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-15-plus_1_.png</image>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Ảnh iPhone 15 Pro</pattern>
+            <template>
+                <image>https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-15-pro-max_4.png</image>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Ảnh iPhone 15 Pro Max</pattern>
+            <template>
+                <image>https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-15-pro-max_3.png</image>
+            </template>
+        </category>
     
 ------------------------------------------------------------------------------------
 
@@ -1133,17 +1221,93 @@
         <pattern>GIÁ CẢ CỦA IPHONE</pattern>
         <template>
             **Giá cả của iPhone có thể thay đổi tùy theo mẫu và dung lượng bộ nhớ. Dưới đây là mức giá tham khảo cho một số mẫu iPhone (tại thời điểm hiện tại):**
-            <br/> - iPhone 12: Từ $699
-            <br/> - iPhone 12 Pro: Từ $999
-            <br/> - iPhone 13: Từ $799
-            <br/> - iPhone 13 Pro: Từ $999
-            <br/> - iPhone SE: Từ $399
-            <br/> - ...
-            <br/> Giá cả có thể thay đổi tùy thuộc vào thị trường.
+            <br/><br/>Ví dụ: bạn có thể search "Giá iPhone 2G" (2007)
         </template>
     </category>
-  
     
+        <category>
+            <pattern>Giá iPhone 2G</pattern>
+            <template>
+                <ul>
+                    <li>Bản 4 GB bộ nhớ trong: 499 USD.</li>
+                    <li>Bản 8 GB bộ nhớ trong: 599 USD.</li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone 3G</pattern>
+            <template>
+                <ul>
+                    <li>Bản 8 GB: 599 USD.</li>
+                    <li>Bản 16 GB: 699 USD.</li>
+                </ul>
+            </template>
+        </category>
+  
+        <category>
+            <pattern>Giá iPhone 3GS</pattern>
+            <template>
+                <ul>
+                    <li>Bản 16 GB: 599 USD.</li>
+                    <li>Bản 32 GB: 699 USD.</li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone 4</pattern>
+            <template>
+                <ul>
+                    <li>Bản 16 GB: 599 USD. </li>
+                    <li>Bản 32 GB: 699 USD.</li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone 4s</pattern>
+            <template>
+                <ul>
+                    <li>Bản 16 GB: 649 USD. </li>
+                    <li>Bản 32 GB: 749 USD.</li>
+                    <li>Bản 64 GB: 849 USD.</li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone 5</pattern>
+            <template>
+                <ul>
+                    <li>Bản 16 GB: 649 USD.</li>
+                    <li>Bản 32 GB: 749 USD.</li>
+                    <li>Bản 64 GB: 849 USD.</li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone 5s</pattern>
+            <template>
+                <ul>
+                    <li>Bản 16 GB: 649 USD.</li>
+                    <li>Bản 32 GB: 749 USD. </li>
+                    <li>Bản 64 GB: 849 USD.</li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone 5c</pattern>
+            <template>
+                <ul>
+                    <li>Bản 16 GB: 549 USD.</li>
+                    <li>Bản 32 GB: 649 USD.</li>
+                </ul>
+            </template>
+        </category>
+        
 ---------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------
     
