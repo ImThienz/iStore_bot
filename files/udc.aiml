@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml version="2.0">
     <category>
-        <pattern>HELLO</pattern> //Nội dung người dùng nhập
-        <template> //Nội dung hiển thị của bot
-            <random> //trả lời ngẫu nhiên
+        <pattern>HELLO</pattern>
+        <template> 
+            <random>
                 <li>Xin chào! Tôi là trợ lý của iStore. Tôi có thể giúp gì cho bạn hôm nay?</li>
                 <li>Chào bạn! Tôi là bot tự động của iStore, hãy cho tôi biết bạn cần gì.</li>
             </random>
@@ -29,12 +29,23 @@
     
     <category>
         <pattern>Xin chào</pattern>
-        <template>HI</template>
+        <template>
+            <srai>HI</srai>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>Chào</pattern>
+        <template>
+            <srai>Xin chào</srai>
+        </template>
     </category>
     
     <category>
         <pattern>Chào bạn</pattern>
-        <template>Xin chào</template>
+        <template>
+            <srai>Chào</srai>
+        </template>
     </category>
     
     <!-- Câu hỏi về các dòng sản phẩm -->
@@ -1228,6 +1239,8 @@
         <category>
             <pattern>Giá iPhone 2G</pattern>
             <template>
+                **Chiếc điện thoại smartphone đầu tiên của Apple đã được Steve Jobs chính thức công bố vào năm 2007 và phần còn lại, đó là lịch sử! Tại Việt Nam có giá đến 1300 USD (~21 triệu vào thời đó) cho hàng xách tay, trong khi giá bán tại Mỹ ở mức 600 USD chứng tỏ đây một món đồ rất xa xỉ nếu ai muốn sở hữu phải bỏ ra số tiền lớn.**
+                <br/><br/>Dù được ca tụng và tung hô rất đình đám tại thời điểm trình làng nhưng máy không được trang bị mạng 3G và camera cũng chỉ có một cái với độ phân giải 2 MP, nhưng sản phẩm này có  một chiếc màn hình 3.5 inch đầy 'ma thuật' với một sức hút kỳ lạ và đã tạo ra một 'bản hùng ca' cực kì hoành tráng cho đến tận nay.
                 <ul>
                     <li>Bản 4 GB bộ nhớ trong: 499 USD.</li>
                     <li>Bản 8 GB bộ nhớ trong: 599 USD.</li>
@@ -1238,6 +1251,7 @@
         <category>
             <pattern>Giá iPhone 3G</pattern>
             <template>
+                **Vào năm sau đó, iPhone 3G được ra mắt với cải tiến khá đáng kể về mặt hiệu suất, thêm nhiều tính năng mới như định vị GPS và kết nối 3G. Điểm đáng chú ý nhất là Apple Store kho ứng dụng đã được đưa lên và nó giúp cho iPhone truy cập mạng sang nền tảng điện toán toàn diện.**
                 <ul>
                     <li>Bản 8 GB: 599 USD.</li>
                     <li>Bản 16 GB: 699 USD.</li>
@@ -1248,6 +1262,7 @@
         <category>
             <pattern>Giá iPhone 3GS</pattern>
             <template>
+                **Vẫn là chu kỳ một năm ra mắt iPhone mới vào tháng 6, trong đó Phone 3GS là bản nâng cấp về tốc độ thay vì thiết kế. Vì vậy nên ngoại hình model này không có gì thay đổi so với phiên bản cũ mà chủ yếu cải thiện tốc độ, còn camera sau được 'độ' lên 3.15 MP hỗ trợ quay video 480p với tốc độ 30 khung hình/giây, và có thêm tùy chọn ROM 32 GB.**
                 <ul>
                     <li>Bản 16 GB: 599 USD.</li>
                     <li>Bản 32 GB: 699 USD.</li>
@@ -1258,6 +1273,8 @@
         <category>
             <pattern>Giá iPhone 4</pattern>
             <template>
+                **Thiết kế cho dòng IPhone 4 chính là một 'làn gió mới' với sự đổi mới khi sử hữu thiết kế góc cạnh viền khung kim loại với mặt lưng phẳng được phủ kính rất sang chảnh. Thiết kế của iPhone 4 đã được Apple tỉnh chỉnh mỏng hơn trước tận 2 mm và vẫn luôn mang 'âm hưởng' của một vedette đầy mĩ miều trường tồn theo năm tháng của Apple.**
+                <br/><br/>Ngoài ra, đây cũng là phiên bản đầu tiên được Apple trang bị công nghệ màn hình Retina cùng chip A series thế hệ thứ nhất - A4 và đặc biệt trang bị camera trước giúp bạn có thể selfie dễ dàng. 
                 <ul>
                     <li>Bản 16 GB: 599 USD. </li>
                     <li>Bản 32 GB: 699 USD.</li>
@@ -1268,6 +1285,7 @@
         <category>
             <pattern>Giá iPhone 4s</pattern>
             <template>
+                **Cũng giống như iPhone 3GS ra mắt trước đó, iPhone 4S được 'chào đời' như là một phiên bản 'hot fix' hoàn thiện và mang đến nhiều công nghệ hơn. Một số tính năng mới có mặt trên thiết bị như camera 8 MP, iCloud, Siri cùng vi xử lý hai nhân A5. Ngoài ra, ở năm này Apple cũng cho ra phiên bản 64 GB với mức giá xách tay rất cao là 27 triệu đồng ở khoản thời gian đầu khi mới ra mắt.**
                 <ul>
                     <li>Bản 16 GB: 649 USD. </li>
                     <li>Bản 32 GB: 749 USD.</li>
@@ -1279,6 +1297,7 @@
         <category>
             <pattern>Giá iPhone 5</pattern>
             <template>
+                **Với chất liệu hợp kim nguyên khối, chỉ phủ mặt kính trước, iPhone 5 đột phá với màn hình vượt ngưỡng kích thước 3.5 inch so với các dòng tiền thân, là sản phẩm đầu tiên có cổng lightning kết nối mới được khách hàng đánh giá rất cao. iPhone 5 cũng được cài đặt sẵn iOS 6 cực kì mượt mà dành cho các iFans.**
                 <ul>
                     <li>Bản 16 GB: 649 USD.</li>
                     <li>Bản 32 GB: 749 USD.</li>
@@ -1290,6 +1309,7 @@
         <category>
             <pattern>Giá iPhone 5s</pattern>
             <template>
+                **Năm 2013, iPhone 5S trang bị cảm biến vân tay trên Touch ID ở phím Home đồng thời con chip xử lý A7 64 bit đầu tiên trên thế giới. Ngoài ra dòng 5C được ra mắt giá rẻ mặt lưng nhựa, với 5 màu trắng, xanh da trời, xanh lá cây, vàng và hồng cực kì đặc sắc và cá tính dành cho các Gen Y thời bấy giờ.**
                 <ul>
                     <li>Bản 16 GB: 649 USD.</li>
                     <li>Bản 32 GB: 749 USD. </li>
@@ -1301,12 +1321,311 @@
         <category>
             <pattern>Giá iPhone 5c</pattern>
             <template>
+                **Năm 2013, iPhone 5S trang bị cảm biến vân tay trên Touch ID ở phím Home đồng thời con chip xử lý A7 64 bit đầu tiên trên thế giới. Ngoài ra dòng 5C được ra mắt giá rẻ mặt lưng nhựa, với 5 màu trắng, xanh da trời, xanh lá cây, vàng và hồng cực kì đặc sắc và cá tính dành cho các Gen Y thời bấy giờ.**
                 <ul>
                     <li>Bản 16 GB: 549 USD.</li>
                     <li>Bản 32 GB: 649 USD.</li>
                 </ul>
             </template>
         </category>
+        
+        <category>
+            <pattern>Giá iPhone 6</pattern>
+            <template>
+                **iPhone 6 và iPhone 6 Plus đã làm cho các iFans một phen ngã nghiêng với điểm nhấn là kích thước của 2 phiên bản lần lượt là 4.7 inch và 5.5 inch với màn hình Retina HD cực kì sắc nét, cùng với đó là thiết kế siêu mỏng cực kì quyến rũ và vẫn được duy trì trên các thế hệ iPhone mới. **
+                <ul>
+                    <li>Bản 16 GB: 649 USD.</li>
+                    <li>Bản 64 GB: 749 USD. </li>
+                    <li>Bản 128 GB: 849 USD.</li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone 6 Plus</pattern>
+            <template>
+                **iPhone 6 và iPhone 6 Plus đã làm cho các iFans một phen ngã nghiêng với điểm nhấn là kích thước của 2 phiên bản lần lượt là 4.7 inch và 5.5 inch với màn hình Retina HD cực kì sắc nét, cùng với đó là thiết kế siêu mỏng cực kì quyến rũ và vẫn được duy trì trên các thế hệ iPhone mới. **
+                <ul>
+                    <li>Bản 16 GB: 749 USD. </li>
+                    <li>Bản 64 GB: 849 USD.  </li>
+                    <li>Bản 128 GB: 949 USD.</li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone 6s</pattern>
+            <template>
+                **Bộ đôi iPhone 6s và iPhone 6s Plus với hai cải tiến lớn: Camera sau 12 MP hỗ trợ quay video 4K, công nghệ màn hình cảm ứng lực 3D Touch và hỗ trợ người dùng gọi Siri với khẩu hiệu “Hey Siri".**
+                <ul>
+                    <li>16 GB: 649 USD.</li>
+                    <li>64 GB: 749 USD.</li>
+                    <li>128 GB: 849 USD.</li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone 6s Plus</pattern>
+            <template>
+                **Bộ đôi iPhone 6s và iPhone 6s Plus với hai cải tiến lớn: Camera sau 12 MP hỗ trợ quay video 4K, công nghệ màn hình cảm ứng lực 3D Touch và hỗ trợ người dùng gọi Siri với khẩu hiệu “Hey Siri".**
+                <ul>
+                    <li>16 GB: 749 USD. </li>
+                    <li>64 GB: 849 USD.</li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone 7</pattern>
+            <template>
+                **iPhone 7 và iPhone 7 Plus là 2 chiếc iPhone có nhiều màu sắc nhất trong lịch sử Apple. Bộ đôi này mang tới khả năng chống nước và bụi bẩn đạt chuẩn và cũng là thế hệ iPhone đầu tiên có loa stereo. Trong đó, iPhone 7 Plus sở hữu camera kép trên mặt lưng.**
+                <ul>
+                    <li>32 GB: 649 USD. </li>
+                    <li>128 GB: 749 USD. </li>
+                    <li>256 GB: 849 USD. </li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone 7 Plus</pattern>
+            <template>
+                **iPhone 7 và iPhone 7 Plus là 2 chiếc iPhone có nhiều màu sắc nhất trong lịch sử Apple. Bộ đôi này mang tới khả năng chống nước và bụi bẩn đạt chuẩn và cũng là thế hệ iPhone đầu tiên có loa stereo. Trong đó, iPhone 7 Plus sở hữu camera kép trên mặt lưng.**
+                <ul>
+                    <li>32 GB: 749 USD. </li>
+                    <li>128 GB: 849 USD. </li>
+                    <li>256 GB: 949 USD. </li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone 8</pattern>
+            <template>
+                **Bộ đôi 8 và 8 Plus trình làng vào năm 2017 và là series đầu tiên trong lịch sử sở hữu tính năng không dây. Mặt lưng của thiết bị đã được cấu tạo từ kính thay vì nhôm như thế hệ trước. **
+                <ul>
+                    <li>64 GB: 699 USD.</li>
+                    <li>256 GB: 849 USD.</li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone 8 Plus</pattern>
+            <template>
+                **Bộ đôi 8 và 8 Plus trình làng vào năm 2017 và là series đầu tiên trong lịch sử sở hữu tính năng không dây. Mặt lưng của thiết bị đã được cấu tạo từ kính thay vì nhôm như thế hệ trước. **
+                <ul>
+                    <li>64 GB: 799 USD.</li>
+                    <li>256 GB: 949 USD.</li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone X</pattern>
+            <template>
+                **Để ăn mừng kỷ niệm 10 năm ra mắt dòng diện thoại, Apple đã cho ra mắt sản phẩm iPhone X với thiết kế 'tai thỏ' hoàn toàn mới và sử dụng màn hình OLED 5.8 inch Super Retina. Apple lần đầu từ bỏ phím home trên iPhone X và cũng nói lời tạm biệt với tính năng Touch ID để sử dụng chức năng nhận diện khuôn mặt Face iD.**
+                <ul>
+                    <li>64GB: 999 USD.</li>
+                    <li>256GB: 1.149 USD.</li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone XR</pattern>
+            <template>
+                **Có thể thấy nếu như năm 2017, người ta bàn tán nhau về việc một chiếc iPhone được bán với giá 999 USD. Thì sang năm 2018 người dùng đã bắt đầu quen và thích nghi hơn với các sản phẩm 'nghìn đô'. Và cũng chính Apple là người mở màn cho cuộc đua của những chiếc flagship giá 20 - 30 triệu đồng với những thiết bị được trang bị con chip mạnh hơn, chống nước tốt hơn và camera chụp ảnh đẹp hơn.**
+                <ul>
+                    <li>64 GB: 749 USD.</li>
+                    <li>128 GB: 799USD. </li>
+                    <li>256 GB: 899 USD. </li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone Xs</pattern>
+            <template>
+                **Có thể thấy nếu như năm 2017, người ta bàn tán nhau về việc một chiếc iPhone được bán với giá 999 USD. Thì sang năm 2018 người dùng đã bắt đầu quen và thích nghi hơn với các sản phẩm 'nghìn đô'. Và cũng chính Apple là người mở màn cho cuộc đua của những chiếc flagship giá 20 - 30 triệu đồng với những thiết bị được trang bị con chip mạnh hơn, chống nước tốt hơn và camera chụp ảnh đẹp hơn.**
+                <ul>
+                    <li>64 GB: 999 USD. </li>
+                    <li>128 GB: 1.149 USD. </li>
+                    <li>256 GB: 1.349 USD. </li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone Xs Max</pattern>
+            <template>
+                **Có thể thấy nếu như năm 2017, người ta bàn tán nhau về việc một chiếc iPhone được bán với giá 999 USD. Thì sang năm 2018 người dùng đã bắt đầu quen và thích nghi hơn với các sản phẩm 'nghìn đô'. Và cũng chính Apple là người mở màn cho cuộc đua của những chiếc flagship giá 20 - 30 triệu đồng với những thiết bị được trang bị con chip mạnh hơn, chống nước tốt hơn và camera chụp ảnh đẹp hơn.**
+                <ul>
+                    <li>64 GB: 1.099 USD. </li>
+                    <li>128 GB: 1.249 USD. </li>
+                    <li>256 GB: 1.449 USD. </li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone 11</pattern>
+            <template>
+                **Các dòng iPhone 11 được ông lớn Táo khuyết giới thiệu vào năm 2019 trên toàn cầu. Đây là dòng iPhone tạo được khá nhiều tiếng vang lớn trong giới điện thoại. Lần đầu tiên Apple mang lại một thiết kế cụm camera được đặt trong một khung viền lớn cùng đèn LED trên một chiếc smartphone của mình sản xuất.**
+                <ul>
+                    <li>64 GB: 699 USD. </li>
+                    <li>128 GB: 749 USD. </li>
+                    <li>256 GB: 849 USD. </li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone 11 Pro</pattern>
+            <template>
+                **Các dòng iPhone 11 được ông lớn Táo khuyết giới thiệu vào năm 2019 trên toàn cầu. Đây là dòng iPhone tạo được khá nhiều tiếng vang lớn trong giới điện thoại. Lần đầu tiên Apple mang lại một thiết kế cụm camera được đặt trong một khung viền lớn cùng đèn LED trên một chiếc smartphone của mình sản xuất.**
+                <ul>
+                    <li>64 GB: 999 USD. </li>
+                    <li>128 GB: 1.149 USD. </li>
+                    <li>256 GB: 1.349 USD. </li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone 11 Pro Max</pattern>
+            <template>
+                **Các dòng iPhone 11 được ông lớn Táo khuyết giới thiệu vào năm 2019 trên toàn cầu. Đây là dòng iPhone tạo được khá nhiều tiếng vang lớn trong giới điện thoại. Lần đầu tiên Apple mang lại một thiết kế cụm camera được đặt trong một khung viền lớn cùng đèn LED trên một chiếc smartphone của mình sản xuất.**
+                <ul>
+                    <li>64 GB: 1,099 USD </li>
+                    <li>128 GB: 1,249 USD </li>
+                    <li>256 GB: 1,449 USD </li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone 12</pattern>
+            <template>
+                **iPhone 12 Pro và Pro Max đều được tích hợp bộ nhớ RAM khủng 6 GB cùng tấm nền Super Retina XDR OLED cực chân thật tại thời điểm ra mắt và được đưa trở lại phong cách thiết kế dạng vuông vức như thời của Steve Jobs. Ngoài ra, phiên bản tiêu chuẩn và mini sở hữu RAM 4 GB tương tự như trên iPhone 11.**
+                <ul>
+                    <li>64 GB: 799 USD. </li>
+                    <li>128 GB: 849 USD. </li>
+                    <li>256 GB: 949 USD. </li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone 12 Pro</pattern>
+            <template>
+                **iPhone 12 Pro và Pro Max đều được tích hợp bộ nhớ RAM khủng 6 GB cùng tấm nền Super Retina XDR OLED cực chân thật tại thời điểm ra mắt và được đưa trở lại phong cách thiết kế dạng vuông vức như thời của Steve Jobs. Ngoài ra, phiên bản tiêu chuẩn và mini sở hữu RAM 4 GB tương tự như trên iPhone 11.**
+                <ul>
+                    <li>128 GB: 999 USD. </li>
+                    <li>256 GB: 1.099 USD. </li>
+                    <li>512 GB: 1.299 USD. </li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone 12 Pro Max</pattern>
+            <template>
+                **iPhone 12 Pro và Pro Max đều được tích hợp bộ nhớ RAM khủng 6 GB cùng tấm nền Super Retina XDR OLED cực chân thật tại thời điểm ra mắt và được đưa trở lại phong cách thiết kế dạng vuông vức như thời của Steve Jobs. Ngoài ra, phiên bản tiêu chuẩn và mini sở hữu RAM 4 GB tương tự như trên iPhone 11.**
+                <ul>
+                    <li>128 GB: 1.099 USD. </li>
+                    <li>256 GB: 1.199 USD. </li>
+                    <li>512 GB: 1.399 USD. </li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone 12 mini</pattern>
+            <template>
+                **iPhone 12 Pro và Pro Max đều được tích hợp bộ nhớ RAM khủng 6 GB cùng tấm nền Super Retina XDR OLED cực chân thật tại thời điểm ra mắt và được đưa trở lại phong cách thiết kế dạng vuông vức như thời của Steve Jobs. Ngoài ra, phiên bản tiêu chuẩn và mini sở hữu RAM 4 GB tương tự như trên iPhone 11.**
+                <ul>
+                    <li>64 GB: 699 USD </li>
+                    <li>128 GB: 749 USD </li>
+                    <li>256 GB: 849 USD </li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone 13</pattern>
+            <template>
+                **Vào tháng 9 năm 2021, các dòng iPhone 13 đã được Apple chính thức công bố trên toàn cầu. Các điện thoại đều được kế thừa toàn bộ phong cách thiết kế của iPhone 12 series ra mắt trước đó 1 năm. Tuy nhiên, Apple cũng đã tạo nên một điểm khác biệt cho con cưng của mình năm ngoái bằng cách gia tăng kích thước của các ống kính chụp ảnh một chút.**
+                <ul>
+                    <li>64 GB: 799 USD. </li>
+                    <li>128 GB: 849 USD. </li>
+                    <li>256 GB: 949 USD. </li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone 13 Pro</pattern>
+            <template>
+                **Vào tháng 9 năm 2021, các dòng iPhone 13 đã được Apple chính thức công bố trên toàn cầu. Các điện thoại đều được kế thừa toàn bộ phong cách thiết kế của iPhone 12 series ra mắt trước đó 1 năm. Tuy nhiên, Apple cũng đã tạo nên một điểm khác biệt cho con cưng của mình năm ngoái bằng cách gia tăng kích thước của các ống kính chụp ảnh một chút.**
+                <ul>
+                    <li>128 GB: 999 USD. </li>
+                    <li>256 GB: 1,099 USD. </li>
+                    <li>512 GB: 1,299 USD.</li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone 13 Pro Max</pattern>
+            <template>
+                **Vào tháng 9 năm 2021, các dòng iPhone 13 đã được Apple chính thức công bố trên toàn cầu. Các điện thoại đều được kế thừa toàn bộ phong cách thiết kế của iPhone 12 series ra mắt trước đó 1 năm. Tuy nhiên, Apple cũng đã tạo nên một điểm khác biệt cho con cưng của mình năm ngoái bằng cách gia tăng kích thước của các ống kính chụp ảnh một chút.**
+                <ul>
+                    <li>128 GB: 1.099 USD. </li>
+                    <li>256 GB: 1.199 USD. </li>
+                    <li>512 GB: 1.399 USD. </li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone 13 mini</pattern>
+            <template>
+                **Vào tháng 9 năm 2021, các dòng iPhone 13 đã được Apple chính thức công bố trên toàn cầu. Các điện thoại đều được kế thừa toàn bộ phong cách thiết kế của iPhone 12 series ra mắt trước đó 1 năm. Tuy nhiên, Apple cũng đã tạo nên một điểm khác biệt cho con cưng của mình năm ngoái bằng cách gia tăng kích thước của các ống kính chụp ảnh một chút.**
+                <ul>
+                    <li>64 GB: 699 USD. </li>
+                    <li>128 GB: 749 USD. </li>
+                    <li>256 GB: 849 USD. </li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone 14</pattern>
+            <template>
+                **Trong năm 2022, điểm nhấn trong sự kiện Apple vừa qua chính là iPhone 14 Pro và iPhone 14 Pro Max với thiết kế hình viên thuốc với tên gọi riêng là Dynamic Island (Đảo thích ứng) cùng khung viền vẫn giữ kiểu thiết kế khung thép viền vát phẳng và được làm từ thép không gỉ. Cùng với đó là sự bổ sung về bộ nhớ trong lên tận 1 TB quá 'ư là đã' dành cho Gen Z muốn lưu 7749 ảnh, video, ứng dụng,..**
+                <ul>
+                    <li>128 GB: 799 USD. </li>
+                    <li>256 GB: 899 USD.</li>
+                    <li>512 GB: 1.099 USD. </li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone 14 Pro</pattern>
+            <template>
+                **Trong năm 2022, điểm nhấn trong sự kiện Apple vừa qua chính là iPhone 14 Pro và iPhone 14 Pro Max với thiết kế hình viên thuốc với tên gọi riêng là Dynamic Island (Đảo thích ứng) cùng khung viền vẫn giữ kiểu thiết kế khung thép viền vát phẳng và được làm từ thép không gỉ. Cùng với đó là sự bổ sung về bộ nhớ trong lên tận 1 TB quá 'ư là đã' dành cho Gen Z muốn lưu 7749 ảnh, video, ứng dụng,..**
+                <ul>
+                    <li>128 GB: 999 USD. </li>
+                    <li>256 GB: 1,099 USD. </li>
+                    <li>512 GB: 1,299 USD. </li>
+                    <li>1 TB: 1,499 USD.</li>
+                </ul>
+            </template>
+        </category>
+        
         
 ---------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------
