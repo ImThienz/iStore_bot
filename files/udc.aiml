@@ -63,7 +63,9 @@
         </template>
     </category>
     
-------------------------------------------------------------------------------------
+    
+    
+=====================================================================================
 
     <category>
         <pattern>GIỚI THIỆU IPHONE</pattern>
@@ -73,7 +75,7 @@
             <br/>
             <br/>Các dòng iPhone từ trước đến nay của Apple:
             <ul>
-                <li>iPhone 2G</li>
+                <!--    <li>iPhone 2G</li>
                 <li>iPhone 3G</li>
                 <li>iPhone 3GS</li>
                 <li>iPhone 4 (2010)</li>
@@ -86,7 +88,7 @@
                 <li>iPhone 7/7 Plus (2016)</li>
                 <li>iPhone 8/8 Plus (2017)</li>
                 <li>iPhone X (2017)</li>
-                <li>iPhone Xs/ Xr/ Xs Max (2018)</li>
+                <li>iPhone Xs/ Xr/ Xs Max (2018)</li>   -->
                 <li>iPhone 11 series (2019)</li>
                 <li>iPhone SE (2020)</li>
                 <li>iPhone 12 series (2020)</li>
@@ -117,7 +119,7 @@
         </template>
     </category>
     
-        <category>
+        <!--    <category>
             <pattern>iPhone 2G</pattern>
             <template>
                 ***Vào năm 2007, trong khi thị trường đang sử dụng điện thoại có bàn phím truyền thống. Thì Apple đã cho ra mắt iPhone 2G, chiếc điện thoại full cảm ứng đầu tiên. Ngay lập tức chiếc điện thoại này trở thành hiện tượng và thay đổi thói quen sử dụng điện thoại của người dùng khi đó.***
@@ -481,7 +483,7 @@
                 <br/>   * Zoom quang học
                 <br/>   Giá : 43.990.000 (tính từ thời điểm ra mắt sản phẩm)
             </template>
-        </category>
+        </category>     -->
         
         <category>
             <pattern>iPhone 11</pattern>
@@ -1626,22 +1628,123 @@
             </template>
         </category>
         
+        <category>
+            <pattern>Giá iPhone 14 Pro Max</pattern>
+            <template>
+                **Trong năm 2022, điểm nhấn trong sự kiện Apple vừa qua chính là iPhone 14 Pro và iPhone 14 Pro Max với thiết kế hình viên thuốc với tên gọi riêng là Dynamic Island (Đảo thích ứng) cùng khung viền vẫn giữ kiểu thiết kế khung thép viền vát phẳng và được làm từ thép không gỉ. Cùng với đó là sự bổ sung về bộ nhớ trong lên tận 1 TB quá 'ư là đã' dành cho Gen Z muốn lưu 7749 ảnh, video, ứng dụng,..**
+                <ul>
+                    <li>128 GB: 1.099 USD. </li>
+                    <li>256 GB: 1.199 USD. </li>
+                    <li>512 GB: 1.399 USD. </li>
+                    <li>1 TB: 1.599 USD.</li>
+                </ul>
+            </template>
+        </category>
         
----------------------------------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------------------------------
+        <category>
+            <pattern>Giá iPhone 14 Plus</pattern>
+            <template>
+                **Trong năm 2022, điểm nhấn trong sự kiện Apple vừa qua chính là iPhone 14 Pro và iPhone 14 Pro Max với thiết kế hình viên thuốc với tên gọi riêng là Dynamic Island (Đảo thích ứng) cùng khung viền vẫn giữ kiểu thiết kế khung thép viền vát phẳng và được làm từ thép không gỉ. Cùng với đó là sự bổ sung về bộ nhớ trong lên tận 1 TB quá 'ư là đã' dành cho Gen Z muốn lưu 7749 ảnh, video, ứng dụng,..**
+                <ul>
+                    <li>128 GB: 899 USD. </li>
+                    <li>256 GB: 999 USD.</li>
+                    <li>512 GB: 1.199 USD. </li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone 15</pattern>
+            <template>
+                <ul>
+                    <li>128 GB: 799 USD. </li>
+                    <li>256 GB: 899 USD. </li>
+                    <li>512 GB: 1099 USD. </li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone 15 Plus</pattern>
+            <template>
+                <ul>
+                    <li>128 GB: 899 USD. </li>
+                    <li>256 GB: 999 USD. </li>
+                    <li>512 GB: 1199 USD. </li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone 15 Pro</pattern>
+            <template>
+                <ul>
+                    <li>128 GB: 999 USD. </li>
+                    <li>256 GB: 1099 USD. </li>
+                    <li>512 GB: 1299 USD. </li>
+                    <li>1 TB: 1499 USD. </li>
+                </ul>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Giá iPhone 15 Pro Max</pattern>
+            <template>
+                <ul>
+                    <li>256 GB: 1199 USD. </li>
+                    <li>512 GB: 1399 USD. </li>
+                    <li>1 TB: 1599 USD. </li>
+                </ul>
+            </template>
+        </category>
+        
+        
+        
+
+====================================================================================
     
 
     <category>
         <pattern>IPAD</pattern>
         <template>
             Bạn muốn biết gì về iPad? Hãy hỏi tôi về các mẫu iPad, tính năng, giá cả hoặc bất cứ điều gì liên quan đến iPad.
+            <ol>
+                <li>**Giới thiệu iPad**</li>
+                <li>**Các mẫu iPad**</li>
+                <li>**Tính năng của iPad**</li>
+                <li>**Giá cả của iPad**</li>
+            </ol>
         </template>
     </category>
 
     <category>
         <pattern>GIỚI THIỆU IPAD</pattern>
         <template>
-            iPad là dòng máy tính bảng của Apple, nổi tiếng với màn hình Retina, hiệu suất mạnh mẽ và khả năng chạy nhiều ứng dụng cùng lúc.
+            **iPad là dòng máy tính bảng của Apple, nổi tiếng với màn hình Retina, hiệu suất mạnh mẽ và khả năng chạy nhiều ứng dụng cùng lúc.**
+            <br/>Các dòng iPhone từ trước đến nay của Apple:
+            <ul>
+                <li>##ĐỐI VỚI IPAD GEN##</li>
+                <li>iPad</li>
+                <li>iPad 2 </li>
+                <li>iPad 3</li>
+                <li>iPad 4</li>
+                <li>iPad 5</li>
+                <li>iPad 6</li>
+                <li>iPad 7</li>
+                <li>iPad 8</li>
+                <li>iPad 9</li>
+                <li>iPad 10</li>
+                <br/>##ĐỐI VỚI IPAD AIR##
+                <li>iPad Air Thế hệ 1</li>
+                <li>iPad Air 2</li>
+                <li>iPad Air 3</li>
+                <li>iPad Air 4</li>
+                <li>iPad Air 5</li>
+                <li></li>
+                <li></li>
+                <li></li>
+                
+            </ul>
         </template>
     </category>
 
