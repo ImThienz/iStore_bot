@@ -63,6 +63,7 @@
         </template>
     </category>
     
+
     
     
 =====================================================================================
@@ -75,7 +76,7 @@
             <br/>
             <br/>Các dòng iPhone từ trước đến nay của Apple:
             <ul>
-                <!--    <li>iPhone 2G</li>
+                <li>iPhone 2G</li>
                 <li>iPhone 3G</li>
                 <li>iPhone 3GS</li>
                 <li>iPhone 4 (2010)</li>
@@ -88,7 +89,7 @@
                 <li>iPhone 7/7 Plus (2016)</li>
                 <li>iPhone 8/8 Plus (2017)</li>
                 <li>iPhone X (2017)</li>
-                <li>iPhone Xs/ Xr/ Xs Max (2018)</li>   -->
+                <li>iPhone Xs/ Xr/ Xs Max (2018)</li>
                 <li>iPhone 11 series (2019)</li>
                 <li>iPhone SE (2020)</li>
                 <li>iPhone 12 series (2020)</li>
@@ -119,7 +120,7 @@
         </template>
     </category>
     
-        <!--    <category>
+        <category>
             <pattern>iPhone 2G</pattern>
             <template>
                 ***Vào năm 2007, trong khi thị trường đang sử dụng điện thoại có bàn phím truyền thống. Thì Apple đã cho ra mắt iPhone 2G, chiếc điện thoại full cảm ứng đầu tiên. Ngay lập tức chiếc điện thoại này trở thành hiện tượng và thay đổi thói quen sử dụng điện thoại của người dùng khi đó.***
@@ -483,7 +484,7 @@
                 <br/>   * Zoom quang học
                 <br/>   Giá : 43.990.000 (tính từ thời điểm ra mắt sản phẩm)
             </template>
-        </category>     -->
+        </category>
         
         <category>
             <pattern>iPhone 11</pattern>
@@ -1716,16 +1717,17 @@
             </ol>
         </template>
     </category>
+    
 
     <category>
         <pattern>GIỚI THIỆU IPAD</pattern>
         <template>
             **iPad là dòng máy tính bảng của Apple, nổi tiếng với màn hình Retina, hiệu suất mạnh mẽ và khả năng chạy nhiều ứng dụng cùng lúc.**
             <br/>Các dòng iPhone từ trước đến nay của Apple:
+            <br/><b>##ĐỐI VỚI IPAD GEN##</b>
             <ul>
-                <li>##ĐỐI VỚI IPAD GEN##</li>
-                <li>iPad</li>
-                <li>iPad 2 </li>
+                <li>iPad gen 1</li>
+                <li>iPad 2</li>
                 <li>iPad 3</li>
                 <li>iPad 4</li>
                 <li>iPad 5</li>
@@ -1734,19 +1736,84 @@
                 <li>iPad 8</li>
                 <li>iPad 9</li>
                 <li>iPad 10</li>
-                <br/>##ĐỐI VỚI IPAD AIR##
+
+            <br/><b>##ĐỐI VỚI IPAD AIR##</b>
                 <li>iPad Air Thế hệ 1</li>
                 <li>iPad Air 2</li>
                 <li>iPad Air 3</li>
                 <li>iPad Air 4</li>
                 <li>iPad Air 5</li>
-                <li></li>
-                <li></li>
-                <li></li>
-                
+
+            <br/><b>##ĐỐI VỚI IPAD MINI##</b>
+                <li>iPad mini</li>
+                <li>iPad mini 2</li>
+                <li>iPad mini 3</li>
+                <li>iPad mini 4</li>
+                <li>iPad mini 5</li>
+                <li>iPad mini 6</li>
+
+            <br/><b>##ĐỐI VỚI IPAD PRO##</b>
+                <li>iPad Pro Original</li>
+                <li>iPad Pro</li>
+                <li>iPad Pro 2</li>
+                <li>iPad Pro 3</li>
+                <li>iPad Pro 4</li>
+                <li>iPad Pro 5</li>
+                <li>iPad Pro 6</li>
             </ul>
         </template>
     </category>
+    
+    <category>
+        <pattern>CÁC MẪU IPAD</pattern>
+        <template>
+            **Hiện tại, các mẫu iPad mới nhất bao gồm iPad Pro M4, iPad Air 5 M1 Wifi, và iPad 9 WiFi.**
+            <br/><br/>
+            <random>
+                <li>Bạn có thể tìm kiếm thêm thông tin bằng từ khóa: ví dụ "iPad mini"...vv</li>
+                <li>Bạn có thể tìm kiếm thêm thông tin bằng từ khóa: ví dụ "iPad Air 2"...vv</li>
+                <li>Bạn có thể tìm kiếm thêm thông tin bằng từ khóa: ví dụ "iPad 5"...vv</li>
+            </random>
+        </template>
+    </category>
+    
+        <category>
+            <pattern>iPad gen 1</pattern>
+            <template></template>
+        </category>
+    
+    
+    <category>
+        <pattern>Tính năng của iPad</pattern>
+        <template>
+            <b>**IPAD GEN**</b>
+            <br/>iPad Gen là dòng máy có giá thành thấp nhất hiện nay. Nó có kích thước lớn hơn so với iPad Mini, nhưng nhỏ hơn so với iPad Air và iPad Pro. Việc này đảm bảo nó có thể hiển thị nhiều nội dung nhưng vẫn đảm bảo sự tiện lợi, dễ dàng mang theo và cầm tay.
+            <br/>Với giá thành rẻ thì sản phẩm này được trang bị những con chip đời cũ nhưng vẫn đảm bảo xử lý hiệu quả các tác vụ hằng ngày.
+            <br/>iPad Gen hoàn toàn tương tích với bút Apple Pencil, kết nối với bàn phím và chuột để gõ văn bản và làm việc hiệu quả hơn.
+            <br/><br/><b>Đối tượng phù hợp của iPad Gen:</b>
+            <br/>Đây là lựa chọn lý tưởng cho người mới sử dụng iPad và muốn trải nghiệm hệ điều hành IOS. Cùng với đó đây cũng là sản phẩm lý tưởng cho người co ngân sách hạn chế nhưng vẫn muốn sử dụng máy tính bảng của nhà Apple
+
+            <b>**IPAD AIR**</b>
+            <br/>iPad Air có một mức giá hợp lý dành cho người muốn mua một chiếc iPad hiệu năng ổn định nhưng tài chính chưa cho phép mua iPad Pro. iPad Air được trang bị các con chip mới nhất của Apple cho hiệu suất xử lý và đồ họa ổn định
+            <br/>Là dòng máy mỏng nhẹ nên sản phẩm này có thể theo bạn đến bất cứ đâu. Có thể nói iPad Air là thiết bị cân bằng giữa hiệu năng và kích thước
+            <br/><br/><b>Đối tượng phù hợp cho iPad Air:</b>
+            <br/>Nếu bạn là người mới tập tành chỉnh sửa ảnh hay edit video đơn giản thì iPad Air là một phương án hợp lý vì nó sở hữu hiệu năng đủ mạnh. Nó cũng rất phù hợp với những người thường xuyên di chuyển và cần những thiết bị có tính di động cao
+            <br/>Ngoài ra iPad Air cũng phù hợp với những người cần kết nối mạng nhanh 5G vì đây là mẫu máy cơ động có hỗ trợ kết nối mạng 5G, cho tốc độ truyền dữ liệu cao
+        
+            <b>**IPAD MINI**</b>
+            <br/>Là chiếc máy tính bảng được ra mắt vào năm 2012, Đúng như tên gọi iPad Mini sở hữu kích thước nhỏ gọn và tiện lợi cho phép bạn mang theo, sử dụng tại bất cứ đâu
+            <br/>Tuy có kích thước nhỏ gọn nhưng nó vẫn mang lại cho người dùng trải nghiệm tuyệt vời với các thông số kỹ thuật đáng chú ý
+            <br/>Cùng với đó iPad Mini cũng có thể kết hợp với các phụ kiện như bàn phím, chuột hay tai nghe không dây để tăng cường trải nghiệm sử dụng của người dùng
+            <br/><br/><b>Đối tượng phù hợp với iPad Mini:</b>
+            <br/>iPad Mini là sự lựa chọn tốt với những ai có kinh phí không được nhiều, nhưng vẫn muốn sở hữu cho mình một sản phẩm Apple nhỏ gọn mà vẫn đảm bảo hiệu năng cũng như tính năng ổn định
+
+
+        </template>
+    </category>
+    
+    
+    
+    
 
     <category>
         <pattern>MACBOOK</pattern>
@@ -1799,3 +1866,5 @@
         </template>
     </category>
 </aiml>
+
+
