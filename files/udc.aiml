@@ -1781,7 +1781,7 @@
         <category>
             <pattern>iPad gen 1</pattern>
             <template>
-                iPad - Tháng 1 năm 2010: Sử dụng bộ xử lý Apple A4 giống như iPhone 4 và có RAM 256MB.
+                <b>iPad - Tháng 1 năm 2010:</b> Sử dụng bộ xử lý Apple A4 giống như iPhone 4 và có RAM 256MB.
                 <image>https://i.pinimg.com/736x/50/ac/59/50ac59b02df5df031048bc6b0fb2abf2.jpg</image>
             </template>
         </category>
@@ -1789,7 +1789,7 @@
         <category>
             <pattern>iPad 2</pattern>
             <template>
-                iPad 2 - Tháng 3 năm 2011: Sử dụng bộ xử lý Apple A5 giống như iPhone 4S và có RAM 512MB.
+                <b>iPad 2 - Tháng 3 năm 2011:</b> Sử dụng bộ xử lý Apple A5 giống như iPhone 4S và có RAM 512MB.
                 <image>https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/SP622_01-ipad2-mul.png</image>
             </template>
         </category>
@@ -1797,10 +1797,249 @@
         <category>
             <pattern>iPad 3</pattern>
             <template>
-                iPad 3 - Tháng 3 năm 2012: Sử dụng bộ xử lý Apple A5X và chạy trên RAM 1GB.
-                <image></image>
+                <b>iPad 3 - Tháng 3 năm 2012:</b> Sử dụng bộ xử lý Apple A5X và chạy trên RAM 1GB.
+                <image>https://chuyenchothue.com/photos/san-pham/laptop-ipad/Ipad/cho-thue-ipad-3/bai-viet/cho-thue-ipad3-1.jpg</image>
             </template>
         </category>
+        
+        <category>
+            <pattern>iPad 4</pattern>
+            <template>
+                <b>iPad 4 - Tháng 10 năm 2012:</b> Cùng năm đó, Apple đã phát hành một phiên bản mới, sử dụng phiên bản nâng cao của bộ xử lý A6X và có RAM 1GB.
+                <image>https://cdn.viettablet.com/images/thumbnails/480/605/detailed/25/ipad-4.png</image>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPad 5</pattern>
+            <template>
+                <b>iPad 5 - Tháng 3 năm 2017:</b> Dòng sản phẩm này đã được hồi sinh sau 5 năm tạm ngưng, sử dụng bộ vi xử lý Apple A9 giống như iPhone 6S và có RAM 2GB.
+                <image>https://pos.nvncdn.com/5f3840-119888/ps/20231204_6dsK2J24IV.jpeg</image>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPad 6</pattern>
+            <template>
+                <b>iPad 6 - Tháng 3 năm 2018:</b> Dòng sản phẩm này sử dụng bộ vi xử lý Apple A10 giống như iPhone 7 và có RAM 2GB.
+                <image>https://hoangtrungmobile.vn/wp-content/uploads/2021/08/ipad-gen-6-den.jpg</image>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPad 7</pattern>
+            <template>
+                <b>iPad 7 - Tháng 9 năm 2019:</b> Dòng sản phẩm này vẫn sử dụng bộ vi xử lý Apple A10 và có RAM đã được tăng lên 3GB.
+                <image>https://hoangphucstore.com/assets/uploads/images/138mYA906sjh_ipad-gen-7-gray-4g.jpg</image>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPad 8</pattern>
+            <template>
+                <b>iPad 8 - Tháng 9 năm 2020:</b> Dòng sản phẩm này sử dụng bộ vi xử lý Apple A12 giống như iPhoneXS và có RAM 3GB.
+                <image>https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111906_sp822-ipad-8gen.png</image>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPad 9</pattern>
+            <template>
+                <b>iPad 9 - Tháng 9 năm 2021:</b> Dòng sản phẩm này sử dụng bộ vi xử lý Apple A13 giống như iPhone 11 và có RAM 3GB.
+                <image>https://phucanhcdn.com/media/product/44630_blue__2_.jpg</image>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPad 10</pattern>
+            <template>
+                <b>iPad 10 - Tháng 10 năm 2022:</b> Với thiết kế toàn màn hình mới, sản phẩm sử dụng bộ vi xử lý Apple A14 và có RAM 4GB.
+                <image>https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/ipad-2022-hero-pink-wifi-select.png</image>
+            </template>
+        </category>
+        
+        
+        
+        <category>
+            <pattern>iPad Air Thế hệ 1</pattern>
+            <template>
+                iPad Air Thế hệ 1 - Tháng 10 năm 2013: Sản phẩm sử dụng bộ vi xử lý Apple A7 giống như iPhone 5S và có RAM 1GB.
+                <image>https://www.applechinhhang.vn/upload/attachment/4741air1.jpg</image>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPad Air 2</pattern>
+            <template>
+                iPad Air 2 - Tháng 10 năm 2014: Sản phẩm sử dụng phiên bản nâng cao của bộ vi xử lý Apple A8X và có RAM 2GB.
+                <image>https://didongthongminh.vn/images/products/anhphu/large/ipad-air-2-32gb-silver.webp?v=1627211054000</image>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPad Air 3</pattern>
+            <template>
+                iPad Air 3 - Tháng 3 năm 2019: Dòng máy này sử dụng bộ vi xử lý Apple A12 giống như iPhoneXS, có RAM 3GB.
+
+
+                <image>https://cdn.viettablet.com/images/detailed/59/ipad-air-3-2019-wifi-64gb.jpg</image>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPad Air 4</pattern>
+            <template>
+                iPad Air 4 - Tháng 9 năm 2020: Với thiết kế toàn màn hình mới, dòng sản phẩm sử dụng bộ vi xử lý Apple A14 và có RAM 4GB.
+
+
+                <image>https://smartviets.com/upload/image/nh%20%C4%91%E1%BA%A1i%20di%E1%BB%87n/ipad%20air%204%20xanh%20d%C6%B0%C6%A1ng.jpg</image>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPad Air 5</pattern>
+            <template>
+                iPad Air 5 - Tháng 3 năm 2022: Sản phẩm sử dụng bộ vi xử lý M1 dành cho máy tính để bàn và chạy trên RAM 8GB.
+
+
+                <image>https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/ipad-air-5.png</image>
+            </template>
+        </category>
+        
+        
+        
+        <category>
+            <pattern>iPad mini</pattern>
+            <template>
+                iPad mini - Tháng 10 năm 2012: Sản phẩm sử dụng bộ vi xử lý Apple A5 giống như iPhone 4S và chạy trên RAM 512 MB.
+
+                <image>https://cdn.tgdd.vn/Products/Images/522/248091/ipad-mini-6-wifi-starlight-1-600x600.jpg</image>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPad mini 2</pattern>
+            <template>
+                iPad mini 2 - Tháng 10 năm 2013: Sản phẩm sử dụng bộ vi xử lý A7 giống như iPhone 5S và chạy trên RAM 1GB.
+
+
+                <image>https://didongthongminh.vn/images/products/2021/12/21/large/tecnopop5lte_1640058832.webp</image>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPad mini 3</pattern>
+            <template>
+                iPad mini 3 - Tháng 10 năm 2014: Cấu hình tương tự như mini2, có thêm tính năng nhận dạng vân tay, sử dụng bộ xử lý Apple A7 và chạy  trên RAM1GB.
+
+
+                <image>https://dienthoaihay.vn/images/products/2020/06/20/resized/ipad-mini-3-xam_1592641707.jpg</image>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPad mini 4</pattern>
+            <template>
+                iPad mini 4 - Tháng 9 năm 2015: Dòng máy này sử dụng bộ vi xử lý Apple A8 giống như iPhone 6 và chạy trên RAM 1GB.
+
+
+                <image>https://clickbuy.com.vn/uploads/images/2019/04/apple-ipad-mini-4-xam.png</image>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPad mini 5</pattern>
+            <template>
+                iPad mini 5 - Tháng 3 năm 2019: Dòng sản phẩm này ra mắt 4 năm sau khi ngừng cập nhật, sử dụng bộ vi xử lý Apple A12 giống như iPhoneXS và chạy trên RAM 3GB.
+
+
+                <image>https://didongmoi.com.vn/upload/images/product/ipad-mini-5-256gb-wifi-cu-bac.jpg</image>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPad mini 6</pattern>
+            <template>
+                iPad mini 6 - Tháng 9 năm 2021: Với thiết kế toàn màn hình mới, iPad mini 6 có cùng bộ vi xử lý A15 với iPhone 13 và chạy trên RAM 4GB.
+
+
+                <image>https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/ipad-mini-6-5.jpg</image>
+            </template>
+        </category>
+        
+        
+        
+        <category>
+            <pattern>iPad Pro Original</pattern>
+            <template>
+                iPad Pro Original 12,9 inch - Tháng 9 năm 2015: Sản phẩm sử dụng phiên bản nâng cao của bộ xử lý Apple A9X và chạy trên RAM 4GB.
+
+                <image>https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-pro.png</image>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPad Pro</pattern>
+            <template>
+                iPad Pro 9.7 inch nguyên bản - Tháng 3 năm 2016: Sản phẩm sử dụng phiên bản nâng cao của bộ xử lý Apple A9X, bộ nhớ chạy được giảm một nửa xuống còn 2GB.
+
+
+                <image>https://cdn.tgdd.vn/Products/Images/522/75490/ipad-pro-97-inch-bac-org-1.png</image>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPad Pro 2</pattern>
+            <template>
+                iPad Pro 2 (10,5 inch /12,9 inch) - Tháng 6 năm 2017: Sản phẩm sử dụng phiên bản nâng cao của bộ xử lý Apple A10X và chạy trên RAM 4GB.
+
+
+                <image>https://cdn-files.kimovil.com/default/0001/34/thumb_33764_default_big.jpeg</image>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPad Pro 3</pattern>
+            <template>
+                iPad Pro 3 (11 inch/12,9 inch) - Tháng 10 năm 2018: Sản phẩm áp dụng thiết kế toàn màn hình mới, được trang bị bộ xử lý Apple A12X nâng cao và chạy trên RAM 4GB, nhưng phiên bản 1T là 6GB.
+
+
+                <image>https://bizweb.dktcdn.net/100/409/790/products/ipad-pro-11-select-cell-spacegray-202104-60a3548d-e439-47a2-808f-8688e573985b-77a2efeb-b439-4260-968c-518a8f7ad5f7.jpg?v=1633933656080</image>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPad Pro 4</pattern>
+            <template>
+                iPad Pro 4 (11 inch /12.9 inch) - Tháng 3 năm 2020: Được trang bị phiên bản nâng cao của bộ xử lý A12Z, bộ nhớ chạy là 6GB.
+
+
+                <image>https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111841_ipad-pro-4gen-mainimage.png</image>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPad Pro 5</pattern>
+            <template>
+                iPad Pro 5 (11 inch/12,9 inch) - Tháng 4 năm 2021: iPad Pro 5 được trang bị bộ xử lý Apple M1 dành cho máy tính để bàn và chạy trên RAM 8GB, nhưng phiên bản 1T và 2T chạy trên RAM 16GB.
+
+
+                <image>https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111896_ipad-pro-12-9.png</image>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>iPad Pro 6</pattern>
+            <template>
+                iPad Pro 6 (11 inch/12,9 inch) - Tháng 10 năm 2022: Dòng sản phẩm này được trang bị chip M2 dành cho máy tính để bàn và chạy trên RAM 8GB, nhưng phiên bản 1T và 2T chạy trên RAM 16GB.
+
+
+                <image>https://bizweb.dktcdn.net/100/409/790/products/ipad-pro-storage-select-202212-12-9inch-space-gray.jpg?v=1675135865690</image>
+            </template>
+        </category>
+        
+        
+        
     
     
     <category>
@@ -1859,19 +2098,7 @@
         </template>
     </category>
 
-    <category>
-        <pattern>IPOD</pattern>
-        <template>
-            Bạn muốn biết gì về iPod? Hãy hỏi tôi về các mẫu iPod, tính năng, giá cả hoặc bất cứ điều gì liên quan đến iPod.
-        </template>
-    </category>
 
-    <category>
-        <pattern>GIỚI THIỆU IPOD</pattern>
-        <template>
-            iPod là dòng máy nghe nhạc của Apple, với thiết kế nhỏ gọn, chất lượng âm thanh tuyệt vời và khả năng lưu trữ lớn.
-        </template>
-    </category>
 
     <!-- Câu hỏi về hệ điều hành iOS -->
     <category>
