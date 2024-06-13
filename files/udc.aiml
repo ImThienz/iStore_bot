@@ -20,6 +20,7 @@
         </template>
     </category>
     
+    
     <category>
         <pattern>HI</pattern>
         <template>
@@ -1779,7 +1780,10 @@
     
         <category>
             <pattern>iPad gen 1</pattern>
-            <template></template>
+            <template>
+                iPad - Tháng 1 năm 2010: Sử dụng bộ xử lý Apple A4 giống như iPhone 4 và có RAM 256MB.
+                <image>https://i.pinimg.com/736x/50/ac/59/50ac59b02df5df031048bc6b0fb2abf2.jpg</image>
+            </template>
         </category>
     
     
@@ -1791,23 +1795,33 @@
             <br/>Với giá thành rẻ thì sản phẩm này được trang bị những con chip đời cũ nhưng vẫn đảm bảo xử lý hiệu quả các tác vụ hằng ngày.
             <br/>iPad Gen hoàn toàn tương tích với bút Apple Pencil, kết nối với bàn phím và chuột để gõ văn bản và làm việc hiệu quả hơn.
             <br/><br/><b>Đối tượng phù hợp của iPad Gen:</b>
-            <br/>Đây là lựa chọn lý tưởng cho người mới sử dụng iPad và muốn trải nghiệm hệ điều hành IOS. Cùng với đó đây cũng là sản phẩm lý tưởng cho người co ngân sách hạn chế nhưng vẫn muốn sử dụng máy tính bảng của nhà Apple
+            <br/>Đây là lựa chọn lý tưởng cho người mới sử dụng iPad và muốn trải nghiệm hệ điều hành IOS. Cùng với đó đây cũng là sản phẩm lý tưởng cho người co ngân sách hạn chế nhưng vẫn muốn sử dụng máy tính bảng của nhà Apple.<br/>
 
+            <br/>==============================
             <b>**IPAD AIR**</b>
             <br/>iPad Air có một mức giá hợp lý dành cho người muốn mua một chiếc iPad hiệu năng ổn định nhưng tài chính chưa cho phép mua iPad Pro. iPad Air được trang bị các con chip mới nhất của Apple cho hiệu suất xử lý và đồ họa ổn định
             <br/>Là dòng máy mỏng nhẹ nên sản phẩm này có thể theo bạn đến bất cứ đâu. Có thể nói iPad Air là thiết bị cân bằng giữa hiệu năng và kích thước
             <br/><br/><b>Đối tượng phù hợp cho iPad Air:</b>
             <br/>Nếu bạn là người mới tập tành chỉnh sửa ảnh hay edit video đơn giản thì iPad Air là một phương án hợp lý vì nó sở hữu hiệu năng đủ mạnh. Nó cũng rất phù hợp với những người thường xuyên di chuyển và cần những thiết bị có tính di động cao
-            <br/>Ngoài ra iPad Air cũng phù hợp với những người cần kết nối mạng nhanh 5G vì đây là mẫu máy cơ động có hỗ trợ kết nối mạng 5G, cho tốc độ truyền dữ liệu cao
-        
+            <br/>Ngoài ra iPad Air cũng phù hợp với những người cần kết nối mạng nhanh 5G vì đây là mẫu máy cơ động có hỗ trợ kết nối mạng 5G, cho tốc độ truyền dữ liệu cao<br/>
+            
+            <br/>==============================
             <b>**IPAD MINI**</b>
             <br/>Là chiếc máy tính bảng được ra mắt vào năm 2012, Đúng như tên gọi iPad Mini sở hữu kích thước nhỏ gọn và tiện lợi cho phép bạn mang theo, sử dụng tại bất cứ đâu
             <br/>Tuy có kích thước nhỏ gọn nhưng nó vẫn mang lại cho người dùng trải nghiệm tuyệt vời với các thông số kỹ thuật đáng chú ý
             <br/>Cùng với đó iPad Mini cũng có thể kết hợp với các phụ kiện như bàn phím, chuột hay tai nghe không dây để tăng cường trải nghiệm sử dụng của người dùng
             <br/><br/><b>Đối tượng phù hợp với iPad Mini:</b>
-            <br/>iPad Mini là sự lựa chọn tốt với những ai có kinh phí không được nhiều, nhưng vẫn muốn sở hữu cho mình một sản phẩm Apple nhỏ gọn mà vẫn đảm bảo hiệu năng cũng như tính năng ổn định
+            <br/>iPad Mini là sự lựa chọn tốt với những ai có kinh phí không được nhiều, nhưng vẫn muốn sở hữu cho mình một sản phẩm Apple nhỏ gọn mà vẫn đảm bảo hiệu năng cũng như tính năng ổn định<br/>
 
-
+            <br/>==============================
+            <b>**IPAD PRO**</b>
+            <br/>iPad Pro là dòng sản phẩm cao cấp và mạnh mẽ nhất của Apple, sản phẩm này được tích hợp các con chip mới nhất của nhà Apple để xử lý các ứng dụng, trò chơi đòi hỏi cao, cũng như hỗ trợ các tính năng mới trong iPadOS
+            <br/>Đồng thời sản phẩm cũng được trang bị màn hình lớn với các tính năng như Liquid Retina cho phép hiển thị nội dung HDR đảm bảo cho người dùng có được trải nghiệm hiển thị sống động và chân thực.
+            <br/>Với khả năng kết nối không dây nhanh chóng giúp bạn truyền dữ liệu, kết nối với các thiết bị ngoại vi và màn hình bên ngoài. Ngoài ra, bạn cũng có thể sử dụng thêm bàn phím Magic Keyboard và Apple Pencil thế hệ thứ hai để tối ưu hóa trải nghiệm sử dụng thay thế hoàn toàn máy tính
+            <br/><br/><b>Đối tượng phù hợp với iPad Pro</b>
+            <br/>Đây là công cụ cực kỳ hữu hiệu để bạn làm việc với hình ảnh, video, âm thanh, đồ họa hay thiết kế. Đi kèm với Bút cảm ứng Apple Pencil sẽ giúp bạn thực hiện mọi ý tưởng thiết kế trong đầu một cách dễ dàng và chuyên nghiệp để tạo ra các sản phẩm ấn tượng.
+            <br/>Sản phẩm này cũng có thể được sử dụng hữu hiệu bởi sinh viên hay nhân viên văn phòng thường xuyên phải soạn thảo văn bản, bảng tính, trình chiếu hay gửi email với các ứng dụng văn phòng được cài sẵn như Pages, Numbers hay Keynote cũng như tương thích với bộ ứng dụng văn phòng của Microsoft
+            
         </template>
     </category>
     
