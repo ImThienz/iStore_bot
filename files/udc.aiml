@@ -1714,7 +1714,6 @@
                 <li>**Giới thiệu iPad**</li>
                 <li>**Các mẫu iPad**</li>
                 <li>**Tính năng của iPad**</li>
-                <li>**Giá cả của iPad**</li>
             </ol>
         </template>
     </category>
@@ -2088,14 +2087,265 @@
         <pattern>MACBOOK</pattern>
         <template>
             Bạn muốn biết gì về MacBook? Hãy hỏi tôi về các mẫu MacBook, tính năng, giá cả hoặc bất cứ điều gì liên quan đến MacBook.
+            <ol>
+                <li><b>Bạn có thể chọn các lựa chọn sau:</b></li>
+                <li>**Giới thiệu Macbook**</li>
+                <li>**Các mẫu Macbook**</li>
+                <li>**Nên mua Macbook nào**</li>
+            </ol>
         </template>
     </category>
 
     <category>
-        <pattern>GIỚI THIỆU MACBOOK</pattern>
+    <pattern>GIỚI THIỆU MACBOOK</pattern>
+    <template>
+        **MacBook là dòng máy tính xách tay của Apple, nổi bật với thiết kế mỏng nhẹ, hiệu suất mạnh mẽ và hệ điều hành macOS.**
+        <br/>Các dòng MacBook từ trước đến nay của Apple:
+        
+        <ul>
+            <br/><b>ĐỐI VỚI MACBOOK AIR</b>
+            <li>MacBook Air Thế hệ 1</li>
+            <li>MacBook Air Thế hệ 2</li>
+            <li>MacBook Air Thế hệ 3</li>
+            <li>MacBook Air Thế hệ 4</li>
+            <li>MacBook Air Thế hệ 5</li>
+            <li>MacBook Air M1</li>
+            <li>MacBook Air M2</li>
+        
+            <br/><b>ĐỐI VỚI MACBOOK PRO</b>
+            <li>MacBook Pro Thế hệ 1</li>
+            <li>MacBook Pro Thế hệ 2</li>
+            <li>MacBook Pro Thế hệ 3</li>
+            <li>MacBook Pro Thế hệ 4</li>
+            <li>MacBook Pro Thế hệ 5</li>
+            <li>MacBook Pro M1</li>
+            <li>MacBook Pro M2</li>
+        </ul>
+        <image>https://cdn.tgdd.vn/Files/2023/02/15/1509838/1-160223-115010.jpg</image>
+    </template>
+    </category>
+    
+    <category>
+    <pattern>CÁC MẪU MACBOOK</pattern>
+    <template>
+        **Hiện tại, các mẫu MacBook mới nhất bao gồm MacBook Air M2, MacBook Pro 14-inch M1 Pro, và MacBook Pro 16-inch M1 Max.**
+        <br/><br/>
+        <random>
+            <li>Bạn có thể tìm kiếm thêm thông tin bằng từ khóa: ví dụ "MacBook Air M1"...vv</li>
+            <li>Bạn có thể tìm kiếm thêm thông tin bằng từ khóa: ví dụ "MacBook Pro 2020"...vv</li>
+            <li>Bạn có thể tìm kiếm thêm thông tin bằng từ khóa: ví dụ "MacBook Pro 16-inch"...vv</li>
+        </random>
+    </template>
+    </category>
+    
+    
+    <category>
+    <pattern>MacBook Air Thế hệ 1</pattern>
+    <template>
+        <b>MacBook Air Thế hệ 1 - Tháng 1 năm 2008:</b> Sử dụng bộ vi xử lý Intel Core 2 Duo và có RAM 2GB.
+    </template>
+    </category>
+    
+    <category>
+    <pattern>MacBook Air Thế hệ 2</pattern>
+    <template>
+        <b>MacBook Air Thế hệ 2 - Tháng 10 năm 2010:</b> Sử dụng bộ vi xử lý Intel Core 2 Duo và có RAM 2GB hoặc 4GB.
+    </template>
+    </category>
+    
+    <category>
+    <pattern>MacBook Air Thế hệ 3</pattern>
+    <template>
+        <b>MacBook Air Thế hệ 3 - Tháng 6 năm 2012:</b> Sử dụng bộ vi xử lý Intel Core i5 hoặc i7 và có RAM 4GB hoặc 8GB.
+    </template>
+    </category>
+    
+    <category>
+    <pattern>MacBook Air Thế hệ 4</pattern>
+    <template>
+        <b>MacBook Air Thế hệ 4 - Tháng 3 năm 2020:</b> Sử dụng bộ vi xử lý Intel Core i3, i5, hoặc i7 và có RAM 8GB hoặc 16GB.
+       
+    </template>
+    </category>
+    
+    
+    <category>
+    <pattern>MacBook Air Thế hệ 5</pattern>
+    <template>
+        <b>MacBook Air Thế hệ 5 - Tháng 11 năm 2020:</b> Sử dụng chip Apple M1 và có RAM 8GB hoặc 16GB.
+    </template>
+    </category>
+    
+    <category>
+    <pattern>MacBook Air M2</pattern>
+    <template>
+        <b>MacBook Air M2 - Tháng 6 năm 2022:</b> Sử dụng chip Apple M2 và có RAM 8GB, 16GB hoặc 24GB.
+        <image>https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/m/a/macbook_air_m2_1_1.jpg</image>
+    </template>
+    </category>
+    
+    <category>
+    <pattern>MacBook Pro Thế hệ 1</pattern>
+    <template>
+        <b>MacBook Pro Thế hệ 1 - Tháng 1 năm 2006:</b> Sử dụng bộ vi xử lý Intel Core Duo và có RAM 512MB hoặc 1GB.
+    </template>
+    </category>
+    
+    <category>
+    <pattern>MacBook Pro Thế hệ 2</pattern>
+    <template>
+        <b>MacBook Pro Thế hệ 2 - Tháng 10 năm 2008:</b> Sử dụng bộ vi xử lý Intel Core 2 Duo và có RAM 2GB hoặc 4GB.
+    </template>
+    </category>
+    
+    <category>
+    <pattern>MacBook Pro Thế hệ 3</pattern>
+    <template>
+        <b>MacBook Pro Thế hệ 3 - Tháng 6 năm 2012:</b> Sử dụng bộ vi xử lý Intel Core i5 hoặc i7 và có RAM 4GB, 8GB, hoặc 16GB.
+    </template>
+    </category>
+    
+    <category>
+    <pattern>MacBook Pro Thế hệ 4</pattern>
+    <template>
+        <b>MacBook Pro Thế hệ 4 - Tháng 10 năm 2016:</b> Sử dụng bộ vi xử lý Intel Core i5 hoặc i7 và có RAM 8GB hoặc 16GB.
+    </template>
+    </category>
+    
+    <category>
+    <pattern>MacBook Pro Thế hệ 5</pattern>
+    <template>
+        <b>MacBook Pro Thế hệ 5 - Tháng 11 năm 2019:</b> Sử dụng bộ vi xử lý Intel Core i7 hoặc i9 và có RAM 16GB, 32GB, hoặc 64GB.
+    </template>
+    </category>
+    
+    <category>
+    <pattern>MacBook Pro M1</pattern>
+    <template>
+        <b>MacBook Pro M1 - Tháng 11 năm 2020:</b> Sử dụng chip Apple M1 và có RAM 8GB hoặc 16GB.
+        <image>https://laptop360.net/wp-content/uploads/2022/06/MacBook-Pro-M1-2020-3.jpg</image>
+    </template>
+    </category>
+    
+    <category>
+    <pattern>MacBook Pro M2</pattern>
+    <template>
+        <b>MacBook Pro M2 - Tháng 6 năm 2022:</b> Sử dụng chip Apple M2 và có RAM 8GB, 16GB hoặc 24GB.
+        <image>https://cdn.tgdd.vn/Products/Images/44/282828/Slider/vi-vn-apple-macbook-pro-13-inch-m2-2022-thumbvideo.jpg</image>
+    </template>
+    </category>
+    
+    <category>
+    <pattern>nên mua macbook nào</pattern>
+    <template>
+        **Nên mua MacBook nào?**
+        <br/><br/>Nếu bạn đang phân vân không biết nên mua mẫu MacBook nào, hãy cân nhắc các lựa chọn sau:
+        <br/><br/><b>**MacBook Air**</b>
+        <br/>MacBook Air là dòng sản phẩm mỏng nhẹ và có giá cả phải chăng nhất trong dòng MacBook. Nó được trang bị bộ vi xử lý Apple M1 hoặc M2, mang lại hiệu suất vượt trội cho các tác vụ hàng ngày.
+        <br/><br/><b>**Đối tượng phù hợp cho MacBook Air:**</b>
+        <br/>MacBook Air là lựa chọn lý tưởng cho sinh viên, nhân viên văn phòng và những người dùng cần một chiếc laptop nhẹ và linh hoạt để mang theo hàng ngày.
+        <br/><br/><b>**MacBook Pro**</b>
+        <br/>MacBook Pro là dòng sản phẩm cao cấp hơn, với hiệu suất mạnh mẽ hơn và màn hình chất lượng cao hơn. Nó có sẵn các mẫu với bộ vi xử lý Apple M1, M1 Pro, M1 Max, hoặc M2.
+        <br/><br/><b>**Đối tượng phù hợp cho MacBook Pro:**</b>
+        <br/>MacBook Pro là lựa chọn lý tưởng cho các nhà thiết kế đồ họa, nhà phát triển phần mềm, và những người dùng chuyên nghiệp cần một chiếc laptop mạnh mẽ để xử lý các tác vụ đòi hỏi cao.
+    </template>
+    </category>
+    
+    
+    <category>
+        <pattern>AIRPOD</pattern>
         <template>
-            MacBook là dòng máy tính xách tay của Apple, được biết đến với thiết kế mỏng nhẹ, hiệu năng cao và hệ điều hành macOS.
+            Bạn muốn biết gì về AirPod? Hãy hỏi tôi về các mẫu AirPod, tính năng, giá cả hoặc bất cứ điều gì liên quan đến AirPod.
+            <ol>
+                <li>**Giới thiệu Airpod**</li>
+                <li>**Các mẫu Airpod**</li>
+                <li>**Các tính năng của Airpod**</li>
+            </ol>
         </template>
+    </category>
+    
+    <category>
+    <pattern>GIỚI THIỆU AIRPOD</pattern>
+    <template>
+        **AirPods là dòng tai nghe không dây của Apple, nổi bật với thiết kế tinh tế, chất lượng âm thanh tuyệt vời và khả năng kết nối nhanh chóng.**
+        <br/>Các dòng AirPods từ trước đến nay của Apple:
+        <ul>
+            <li>AirPods (Thế hệ 1)</li>
+            <li>AirPods 2 (AP2)</li>
+            <li>AirPods Pro</li>
+            <li>AirPods 3 (AP3)</li>
+            <li>AirPods Pro 2 (Pro2)</li>
+        </ul>
+    </template>
+    </category>
+    
+    
+    <category>
+    <pattern>CÁC MẪU AIRPOD</pattern>
+    <template>
+        Hiện tại, các mẫu AirPods mới nhất bao gồm AirPods 3 (AP3), AirPods Pro 2 (Pro2)...
+        <br/><br/>
+        <random>
+            <li>Bạn có thể tìm kiếm thêm thông tin bằng từ khóa: ví dụ "AirPods Pro 2 (Pro2)"...vv</li>
+            <li>Bạn có thể tìm kiếm thêm thông tin bằng từ khóa: ví dụ "AirPods 3 (AP3)"...vv</li>
+        </random>
+    </template>
+    </category>
+    
+    <category>
+    <pattern>AirPods 2</pattern>
+    <template>
+        <b>AirPods 2 (AP2) - Tháng 3 năm 2019:</b> Nâng cấp với chip H1, cho phép kết nối nhanh hơn và thời gian đàm thoại dài hơn.
+        <image>https://cdn.hoanghamobile.com/i/preview/Uploads/2020/10/27/image-removebg-preview%20(30).png</image>
+    </template>
+    </category>
+    
+    <category>
+    <pattern>AirPods Pro</pattern>
+    <template>
+        <b>AirPods Pro - Tháng 10 năm 2019:</b> Được trang bị tính năng chống ồn chủ động, chế độ xuyên âm, và thiết kế in-ear mới.
+        <image>https://www.apple.com/v/airpods-pro/j/images/meta/og__eui2mpgzwyaa_overview.png</image>
+    </template>
+    </category>
+    
+    <category>
+    <pattern>AirPods 3</pattern>
+    <template>
+        <b>AirPods 3 (AP3) - Tháng 10 năm 2021:</b> Thiết kế mới với âm thanh không gian và thời lượng pin dài hơn.
+        <image>https://songlongmedia.com/media/lib/26-10-2021/2962_tai_nghe_apple_airpods_3_songlongmedia_3.jpg</image>
+    </template>
+    </category>
+    
+    <category>
+    <pattern>AirPods Pro 2</pattern>
+    <template>
+        <b>AirPods Pro 2 (Pro2) - Tháng 9 năm 2022:</b> Nâng cấp tính năng chống ồn chủ động, âm thanh không gian và thời lượng pin cải thiện.
+        <image>https://media.xachtaygiasi.vn/product-images/64cdf7144779f8020a3abce1/64f94d005b0da37e221d6995/64ce1c0a0634ffaeb5d5d4b4/thumnaillarge/airpods-pro-2-thach-thuc-moi-gioi-han-am-thanh-cua-nguoi-dungxachtaygiasivn638296566164057491-473-257.webp</image>
+    </template>
+    </category>
+    
+    
+
+    <category>
+    <pattern>các tính năng của airpod</pattern>
+    <template>
+        **Các tính năng nổi bật của AirPods**
+        <br/><br/><b>**AirPods 2 (AP2)**</b>
+        <br/>AirPods 2 (AP2) mang đến chất lượng âm thanh tốt, thiết kế đơn giản, và kết nối dễ dàng. Chúng được trang bị chip H1, giúp cải thiện thời gian kết nối và hỗ trợ tính năng "Hey Siri".
+        <br/><br/>*Tính năng nổi bật của AirPods 2 (AP2):*
+        <br/>- Chip H1 cải thiện kết nối và hiệu suất
+        <br/>- Hỗ trợ "Hey Siri"
+        <br/>- Thời lượng pin dài với hộp sạc không dây tùy chọn
+        <br/>- Kết nối tự động với các thiết bị Apple
+        <br/><br/><b>**AirPods Pro 2 (Pro2)**</b>
+        <br/>AirPods Pro 2 (Pro2) là phiên bản cao cấp với tính năng chống ồn chủ động, chế độ xuyên âm và thiết kế in-ear thoải mái. Chúng mang lại trải nghiệm âm thanh chất lượng cao và khả năng chống ồn hiệu quả.
+        <br/><br/>*Tính năng nổi bật của AirPods Pro 2 (Pro2):*
+        <br/>- Chống ồn chủ động (ANC)
+        <br/>- Chế độ xuyên âm (Transparency mode)
+        <br/>- Thiết kế in-ear với các tùy chọn đệm tai silicon
+        <br/>- Chip H1 cải thiện kết nối và hiệu suất
+        <br/>- Âm thanh không gian (Spatial Audio)
+    </template>
     </category>
 
 
