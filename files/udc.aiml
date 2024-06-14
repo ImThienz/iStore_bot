@@ -13,8 +13,7 @@
                 <li>iPhone</li>
                 <li>iPad</li>
                 <li>MacBook</li>
-                <li>iPod</li>
-                <li>iOS</li>
+                <li>Airpod</li>
             </ul>
             
         </template>
@@ -54,10 +53,11 @@
         <pattern>IPHONE</pattern>
         <template>
             Bạn muốn biết gì về iPhone? Hãy hỏi tôi về các mẫu iPhone, tính năng, giá cả hoặc bất cứ điều gì liên quan đến iPhone.
+            <br/><b>Bạn có thể chọn các lựa chọn sau:</b>
             <ol>
                 <li>**Giới thiệu iPhone**</li>
                 <li>**Các mẫu iPhone**</li>
-                <li>**Một số hình ảnh**</li>
+                <li>**Một số hình ảnh iPhone**</li>
                 <li>**Tính năng của iPhone**</li>
                 <li>**Giá cả của iPhone**</li>
             </ol>
@@ -810,7 +810,7 @@
 ------------------------------------------------------------------------------------        
         
     <category>
-        <pattern>MỘT SỐ HÌNH ẢNH</pattern>
+        <pattern>MỘT SỐ HÌNH ẢNH IPHONE</pattern>
         <template>
             ***Bạn cần thực hiện một vài thao tác sau:***
             <br/>VÍ DỤ:
@@ -1025,12 +1025,12 @@
                 Đây là hình ảnh về iPhone 12
                 <image>https://cdn.tgdd.vn/Products/Images/42/213031/iphone-12-xanh-duong-1-1-org.jpg</image>
                 
-                <!--    <a href="https://cdn.tgdd.vn/Products/Images/42/213031/iphone-12-do-1-1-org.jpg">Thông tin về iPhone 12 màu đỏ</a>
+                <a href="https://cdn.tgdd.vn/Products/Images/42/213031/iphone-12-do-1-1-org.jpg">Thông tin về iPhone 12 màu đỏ</a>
                 <a href="https://cdn.tgdd.vn/Products/Images/42/213031/iphone-12-xanh-duong-1-1-org.jpg">Thông tin về iPhone 12 màu xanh dương</a>
                 <a href="https://cdn.tgdd.vn/Products/Images/42/213031/iphone-12-1-2.jpg">Thông tin về iPhone 12 màu tím</a>
                 <a href="https://cdn.tgdd.vn/Products/Images/42/213031/iphone-12-den-1-1-org.jpg">Thông tin về iPhone 12 màu đen</a>
                 <a href="https://cdn.tgdd.vn/Products/Images/42/213031/iphone-12-xanh-la-1-1-org.jpg">Thông tin về iPhone 12 màu xanh lá</a>
-                <a href="https://cdn.tgdd.vn/Products/Images/42/213031/iphone-12-trang-1-1-org.jpg">Thông tin về iPhone 12 màu trắng</a>    -->
+                <a href="https://cdn.tgdd.vn/Products/Images/42/213031/iphone-12-trang-1-1-org.jpg">Thông tin về iPhone 12 màu trắng</a>
             </template>    
         </category>
         
@@ -1040,12 +1040,12 @@
                 Đây là hình ảnh về iPhone 12 mini:
                 <image>https://clickbuy.com.vn//uploads/images/2020/10/thumb_iP12_3.jpg</image>
                 
-                <!--    <a href="https://clickbuy.com.vn//uploads/images/2020/10/thumb_iP12_3.jpg">Thông tin về iPhone 12 mini màu đỏ</a>
+                <a href="https://clickbuy.com.vn//uploads/images/2020/10/thumb_iP12_3.jpg">Thông tin về iPhone 12 mini màu đỏ</a>
                 <a href="https://clickbuy.com.vn//uploads/images/2020/10/thumb_iP12_5.jpg">Thông tin về iPhone 12 mini màu xanh dương</a>
                 <a href="https://clickbuy.com.vn//uploads/images/2021/03/thumb_iP12_6.jpg">Thông tin về iPhone 12 mini màu tím</a>
                 <a href="https://clickbuy.com.vn//uploads/images/2020/10/thumb_iP12_1.jpg">Thông tin về iPhone 12 mini màu đen</a>
                 <a href="https://clickbuy.com.vn//uploads/images/2020/10/thumb_iP12_2.jpg">Thông tin về iPhone 12 mini màu xanh lá</a>
-                <a href="https://clickbuy.com.vn//uploads/images/2020/10/thumb_iP12_4.jpg">Thông tin về iPhone 12 mini màu trắng</a>    -->
+                <a href="https://clickbuy.com.vn//uploads/images/2020/10/thumb_iP12_4.jpg">Thông tin về iPhone 12 mini màu trắng</a>
             </template>
         </category>
         
@@ -1055,10 +1055,10 @@
                 Đây là hình ảnh về iPhone 12 Pro:
                 <image>https://clickbuy.com.vn//uploads/images/2020/10/thumb_IP12Pro_1.jpg</image>
                 
-                <!--    <a href="https://clickbuy.com.vn//uploads/images/2020/10/thumb_IP12Pro_3.jpg">Thông tin về iPhone 12 Pro Gold</a>
+                <a href="https://clickbuy.com.vn//uploads/images/2020/10/thumb_IP12Pro_3.jpg">Thông tin về iPhone 12 Pro Gold</a>
                 <a href="https://clickbuy.com.vn//uploads/images/2020/10/thumb_IP12Pro_3.jpg">Thông tin về iPhone 12 Pro Pacific Blue</a>
                 <a href="https://clickbuy.com.vn//uploads/images/2020/10/thumb_IP12Pro_1.jpg">Thông tin về iPhone 12 Pro Graphite Black</a>
-                <a href="https://clickbuy.com.vn//uploads/images/2020/10/thumb_IP12Pro_2.jpg">Thông tin về iPhone 12 Pro Silver</a> -->
+                <a href="https://clickbuy.com.vn//uploads/images/2020/10/thumb_IP12Pro_2.jpg">Thông tin về iPhone 12 Pro Silver</a>
             </template>
         </category>
         
@@ -1068,10 +1068,10 @@
                 Đây là hình ảnh về iPhone 12 Pro Max:
                 <image>https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/o/download_2__1_27.png</image>
                 
-                <!--    <a href="https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/o/download_2__1_27.png">Thông tin về iPhone 12 Pro Max Gold</a>
+                <a href="https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/o/download_2__1_27.png">Thông tin về iPhone 12 Pro Max Gold</a>
                 <a href="https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/o/download_37__28.png">Thông tin về iPhone 12 Pro Max Pacific Blue</a>
                 <a href="https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/o/download_1__2_25.png">Thông tin về iPhone 12 Pro Max Graphite Black</a>
-                <a href="https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/o/download_4_1.png">Thông tin về iPhone 12 Pro Max Silver</a>   -->
+                <a href="https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/o/download_4_1.png">Thông tin về iPhone 12 Pro Max Silver</a>
             </template>
         </category>
         
@@ -1081,12 +1081,12 @@
                 Đây là hình ảnh về iPhone 13:
                 <image>https://cdn2.cellphones.com.vn/358x/media/catalog/product/t/r/tr_ng_5.jpg</image>
                 
-                <!--    <a href="https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/1/3/13_4_8_1_1_1_1.jpg">Thông tin về iPhone 13 màu đỏ</a>
+                <a href="https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/1/3/13_4_8_1_1_1_1.jpg">Thông tin về iPhone 13 màu đỏ</a>
                 <a href="https://cdn2.cellphones.com.vn/358x/media/catalog/product/d/_/d_ng_3.jpg">Thông tin về iPhone 13 màu xanh dương</a>
                 <a href="https://cdn2.cellphones.com.vn/358x/media/catalog/product/t/r/tr_ng_5.jpg">Thông tin về iPhone 13 màu trắng</a>
                 <a href="https://cdn2.cellphones.com.vn/358x/media/catalog/product/h/_/h_ng_4.jpg">Thông tin về iPhone 13 màu hồng</a>
                 <a href="https://cdn2.cellphones.com.vn/358x/media/catalog/product/x/n/xnnah_kas_3.png">Thông tin về iPhone 13 màu xanh lá</a>
-                <a href="https://cdn2.cellphones.com.vn/358x/media/catalog/product/_/e/_en_2_5.jpg">Thông tin về iPhone 13 màu đen</a>  -->
+                <a href="https://cdn2.cellphones.com.vn/358x/media/catalog/product/_/e/_en_2_5.jpg">Thông tin về iPhone 13 màu đen</a>
             </template>
         </category>
         
@@ -1096,7 +1096,7 @@
                 Đây là hình ảnh về iPhone 13 mini:
                 <image>https://product.hstatic.net/1000300544/product/iphone-13-pro-gold-select_30a3f1f3d152401aa1cf70a831e9baac_grande.png</image>
                 
-                <!--    <a href="https://product.hstatic.net/1000300544/product/iphone-13-pro-gold-select_30a3f1f3d152401aa1cf70a831e9baac_grande.png">Thông tin về iPhone 13 mini Gold</a>
+                <a href="https://product.hstatic.net/1000300544/product/iphone-13-pro-gold-select_30a3f1f3d152401aa1cf70a831e9baac_grande.png">Thông tin về iPhone 13 mini Gold</a>
                 <a href="https://bizweb.dktcdn.net/thumb/1024x1024/100/318/659/products/iphone-13-mini-blue-select-2021-b3432d0f-3d9d-4e6a-bde4-5ecca54c86bd-a53ee6ac-c9e2-4bac-afd2-5e749833d942.png?v=1633671470257">Thông tin về iPhone 13 mini màu xanh dương</a>
                 <a href="https://bizweb.dktcdn.net/thumb/1024x1024/100/318/659/products/iphone-13-mini-midnight-select-2021-4ba30ad2-ac93-4f64-b84b-9725bb5605da-6548aefd-321f-4802-b71b-2bd80ec25c1a.png?v=1633671470257">Thông tin về iPhone 13 mini màu đen</a>
                 <a href="https://bizweb.dktcdn.net/thumb/1024x1024/100/318/659/products/iphone-13-mini-pink-select-2021-74822129-5cf0-4b25-be83-b8e71a4a7d8d-bd162b5f-8c69-4290-bf5a-2ef25f21881a.png?v=1633671470257">Thông tin về iPhone 13 mini màu hồng</a>
@@ -1111,7 +1111,7 @@
                 Đây là hình ảnh về iPhone 13 Pro:
                 <image>https://product.hstatic.net/1000300544/product/iphone-13-pro-silver-select_a5b3875665ea46ae95254ef86d397726_1024x1024.png</image>
                 
-                <!--    <a href="https://product.hstatic.net/1000300544/product/iphone-13-pro-gold-select_30a3f1f3d152401aa1cf70a831e9baac_grande.png">Thông tin về iPhone 13 Pro Gold</a>
+                <a href="https://product.hstatic.net/1000300544/product/iphone-13-pro-gold-select_30a3f1f3d152401aa1cf70a831e9baac_grande.png">Thông tin về iPhone 13 Pro Gold</a>
                 <a href="https://product.hstatic.net/1000300544/product/iphone-13-pro-blue-select_b2971e7cc3cb4a43af5ad7ab4fce9f63_1024x1024.png">Thông tin về iPhone 13 Pro màu xanh dương</a>
                 <a href="https://product.hstatic.net/1000300544/product/iphone-13-pro-graphite-select_3c9b9d8ada5d41a1b8d920f67aecda57_1024x1024.png">Thông tin về iPhone 13 Pro Graphite Black</a>
                 <a href="https://product.hstatic.net/1000300544/product/iphone-13-pro-silver-select_a5b3875665ea46ae95254ef86d397726_1024x1024.png">Thông tin về iPhone 13 Pro Silver</a>   -->
@@ -1124,7 +1124,7 @@
                 Đây là hình ảnh về iPhone 13 Pro Max:
                 <image>https://duongphi.com/wp-content/uploads/2021/09/iphone-13-pro-max-graphite-select.png</image>
                 
-                <!--    <a href="https://duongphi.com/wp-content/uploads/2021/09/iphone-13-pro-max-gold-select.png">Thông tin về iPhone 13 Pro Max Gold</a>
+                <a href="https://duongphi.com/wp-content/uploads/2021/09/iphone-13-pro-max-gold-select.png">Thông tin về iPhone 13 Pro Max Gold</a>
                 <a href="https://duongphi.com/wp-content/uploads/2021/09/iphone-13-pro-max-blue-select.png">Thông tin về iPhone 13 Pro Max màu xanh dương</a>
                 <a href="https://duongphi.com/wp-content/uploads/2021/09/iphone-13-pro-max-graphite-select.png">Thông tin về iPhone 13 Pro Max Graphite Black</a>
                 <a href="https://duongphi.com/wp-content/uploads/2021/09/iphone-13-pro-max-silver-select.png">Thông tin về iPhone 13 Pro Max Silver</a> -->
@@ -1137,7 +1137,7 @@
                 Đây là hình ảnh về iPhone 14:
                 <image>https://cdn.hoanghamobile.com/i/preview/Uploads/2022/09/08/anh-chup-man-hinh-2022-09-08-luc-01-57-13-removebg-preview.png</image>
                 
-                <!--    <a href="https://cdn.hoanghamobile.com/i/preview/Uploads/2022/09/08/anh-chup-man-hinh-2022-09-08-luc-01-59-53-removebg-preview.png">Thông tin về iPhone 14 màu đỏ</a>
+                <a href="https://cdn.hoanghamobile.com/i/preview/Uploads/2022/09/08/anh-chup-man-hinh-2022-09-08-luc-01-59-53-removebg-preview.png">Thông tin về iPhone 14 màu đỏ</a>
                 <a href="https://cdn.hoanghamobile.com/i/preview/Uploads/2022/09/08/anh-chup-man-hinh-2022-09-08-luc-01-57-13-removebg-preview.png">Thông tin về iPhone 14 màu xanh dương</a>
                 <a href="https://cdn.hoanghamobile.com/i/preview/Uploads/2022/09/08/anh-chup-man-hinh-2022-09-08-luc-01-59-18-removebg-preview.png">Thông tin về iPhone 14 màu trắng</a>
                 <a href="https://cdn.hoanghamobile.com/i/preview/Uploads/2022/09/08/2222.png">Thông tin về iPhone 14 màu tía</a>
@@ -1152,7 +1152,7 @@
                 Đây là hình ảnh về iPhone 14 Plus:
                 <image>https://cdn.tgdd.vn/Products/Images/42/245545/iphone-14-plus-xanh-1.jpg</image>
                 
-                <!--    <a href="https://cdn.tgdd.vn/Products/Images/42/245545/iphone-14-plus-xanh-1.jpg">Thông tin về iPhone 14 Plus màu xanh dương</a>
+                <a href="https://cdn.tgdd.vn/Products/Images/42/245545/iphone-14-plus-xanh-1.jpg">Thông tin về iPhone 14 Plus màu xanh dương</a>
                 <a href="https://cdn.tgdd.vn/Products/Images/42/245545/iphone-14-plus-trang-1.jpg">Thông tin về iPhone 14 Plus màu trắng</a>
                 <a href="https://cdn.tgdd.vn/Products/Images/42/245545/iphone-14-plus-ti-1.jpg">Thông tin về iPhone 14 Plus màu tía</a>
                 <a href="https://cdn.tgdd.vn/Products/Images/42/245545/iphone-14-plus-gold-1.jpeg">Thông tin về iPhone 14 Plus màu vàng</a>
@@ -1166,7 +1166,7 @@
                 Đây là hình ảnh về iPhone 14 Pro:
                 <image>https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/b/_/b_c_1_1.png</image>
                 
-                <!--    <a href="https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/b/_/b_c_1_1.png">Thông tin về iPhone 14 Pro màu trắng</a>
+                <a href="https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/b/_/b_c_1_1.png">Thông tin về iPhone 14 Pro màu trắng</a>
                 <a href="https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-14-pro_2__4.png">Thông tin về iPhone 14 Pro màu tía</a>
                 <a href="https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/v/_/v_ng_12.png">Thông tin về iPhone 14 Pro màu vàng</a>
                 <a href="https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/x/_/x_m_16.png">Thông tin về iPhone 14 Pro màu đen</a>    -->
@@ -1179,7 +1179,7 @@
                 Đây là hình ảnh về iPhone 14 Pro Max:
                 <image>https://onewaymobile.vn/images/products/2022/09/10/large/14-promax-1_1662777476.webp</image>
                 
-                <!--    <a href="https://onewaymobile.vn/images/products/2022/09/10/large/14-promax-20_1662777476.webp">Thông tin về iPhone 14 Pro Max màu trắng</a>
+                <a href="https://onewaymobile.vn/images/products/2022/09/10/large/14-promax-20_1662777476.webp">Thông tin về iPhone 14 Pro Max màu trắng</a>
                 <a href="https://onewaymobile.vn/images/products/2022/09/10/large/14-promax-4_1662777477.webp">Thông tin về iPhone 14 Pro Max màu tía</a>
                 <a href="https://onewaymobile.vn/images/products/2022/09/10/large/14-promax-3_1662777411_1.webp">Thông tin về iPhone 14 Pro Max màu vàng</a>
                 <a href="https://onewaymobile.vn/images/products/2022/09/10/large/14-promax-1_1662777476.webp">Thông tin về iPhone 14 Pro Max màu đen</a>   -->
@@ -1710,6 +1710,7 @@
         <pattern>IPAD</pattern>
         <template>
             Bạn muốn biết gì về iPad? Hãy hỏi tôi về các mẫu iPad, tính năng, giá cả hoặc bất cứ điều gì liên quan đến iPad.
+            <br/><b>Bạn có thể chọn các lựa chọn sau:</b>
             <ol>
                 <li>**Giới thiệu iPad**</li>
                 <li>**Các mẫu iPad**</li>
@@ -2087,8 +2088,8 @@
         <pattern>MACBOOK</pattern>
         <template>
             Bạn muốn biết gì về MacBook? Hãy hỏi tôi về các mẫu MacBook, tính năng, giá cả hoặc bất cứ điều gì liên quan đến MacBook.
+            <br/><b>Bạn có thể chọn các lựa chọn sau:</b>
             <ol>
-                <li><b>Bạn có thể chọn các lựa chọn sau:</b></li>
                 <li>**Giới thiệu Macbook**</li>
                 <li>**Các mẫu Macbook**</li>
                 <li>**Nên mua Macbook nào**</li>
@@ -2256,6 +2257,7 @@
         <pattern>AIRPOD</pattern>
         <template>
             Bạn muốn biết gì về AirPod? Hãy hỏi tôi về các mẫu AirPod, tính năng, giá cả hoặc bất cứ điều gì liên quan đến AirPod.
+            <br/><b>Bạn có thể chọn các lựa chọn sau:</b>
             <ol>
                 <li>**Giới thiệu Airpod**</li>
                 <li>**Các mẫu Airpod**</li>
